@@ -1,0 +1,449 @@
+example_id,model,dialogue,reference_summary,generated_summary,main_topic_captured,important_details_preserved,unsupported_information,excessive_repetition,review_notes
+84,BERT2BERT,"Jamilla: remember that the audition starts at 7.30 P.M.
+Kiki: which station?
+Jamilla: Antena 3
+Yoyo: roger that",The audition starts at 7.30 P.M. in Antena 3.,saih will meet at the concert at 7.,0,0,1,0,Incorrectly describes an audition as a concert; introduces an unsupported person and changes the event time.
+84,Refined TextRank,"Jamilla: remember that the audition starts at 7.30 P.M.
+Kiki: which station?
+Jamilla: Antena 3
+Yoyo: roger that",The audition starts at 7.30 P.M. in Antena 3.,Jamilla: remember that the audition starts at 7.30 P.M.,1,0,0,0,Correctly captures the audition and start time but omits the Antena 3 station.
+54,BERT2BERT,"Stewart: Can you believe he even said that about the forests? Raking? Really?
+Shari: Yes. I can believe that this is an ignorant man. He proves it daily. This just one more example!
+Stewart: He just has no clue.
+Shari: I mean, there are so many people dead and all he can think to do is criticize the forestry department? With a totally inappropriate suggestion? Puhleeze.
+Stewart: I can't wait to vote for anyone else but him.
+Shari: I know what you mean. Half my friends voted for him just to see what would happen! Well, guess what?
+Stewart: Yeah, but we couldn't go another 4 years with a Democrat. The country would go broke!
+Shari: Maybe, but at least we wouldn't be hated around the world and led by an ignorant piece of shit!
+Stewart: You've got a point!
+Shari: I'm not sure he will finish out his term, with all the legal problems, but he seems to be able to hold off the big stuff. Somehow.
+Stewart: I know. How is that even possible?
+Shari: I'm not sure. I mean, he's breaking amendments to the constitution here!
+Stewart: Only on the fringe.
+Shari: Maybe.
+Stewart: We have to make the best of it now. Nothing we can do.
+Shari: Except vote him out!
+Stewart: Exactly. But that's not for a while.
+Shari: Closer every day. If only there was a good candidate.
+Stewart: From your mouth to the Dem National Committee's ears!
+Shari: LOL!
+Stewart: We should volunteer. Get out the voters or something.
+Shari: Good idea.
+Stewart: Let me see what's out there and I'll let you know.
+Shari: Great! ",Stewart and Shari find the current president ignorant and incompetent. They hope he gets voted out. Stewart is going to see what possibilities there are of volunteering in the upcoming elections.,bruce has a lot of a lot of a lot of a lot of a lot.,0,0,1,1,"Introduces unsupported person Bruce, fails to capture the political discussion, and repeats 'a lot of' without conveying useful information."
+54,Refined TextRank,"Stewart: Can you believe he even said that about the forests? Raking? Really?
+Shari: Yes. I can believe that this is an ignorant man. He proves it daily. This just one more example!
+Stewart: He just has no clue.
+Shari: I mean, there are so many people dead and all he can think to do is criticize the forestry department? With a totally inappropriate suggestion? Puhleeze.
+Stewart: I can't wait to vote for anyone else but him.
+Shari: I know what you mean. Half my friends voted for him just to see what would happen! Well, guess what?
+Stewart: Yeah, but we couldn't go another 4 years with a Democrat. The country would go broke!
+Shari: Maybe, but at least we wouldn't be hated around the world and led by an ignorant piece of shit!
+Stewart: You've got a point!
+Shari: I'm not sure he will finish out his term, with all the legal problems, but he seems to be able to hold off the big stuff. Somehow.
+Stewart: I know. How is that even possible?
+Shari: I'm not sure. I mean, he's breaking amendments to the constitution here!
+Stewart: Only on the fringe.
+Shari: Maybe.
+Stewart: We have to make the best of it now. Nothing we can do.
+Shari: Except vote him out!
+Stewart: Exactly. But that's not for a while.
+Shari: Closer every day. If only there was a good candidate.
+Stewart: From your mouth to the Dem National Committee's ears!
+Shari: LOL!
+Stewart: We should volunteer. Get out the voters or something.
+Shari: Good idea.
+Stewart: Let me see what's out there and I'll let you know.
+Shari: Great! ",Stewart and Shari find the current president ignorant and incompetent. They hope he gets voted out. Stewart is going to see what possibilities there are of volunteering in the upcoming elections.,Stewart: I can't wait to vote for anyone else but him. Stewart: I know. How is that even possible? Shari: Except vote him out!,1,0,0,0,Captures the desire to vote the president out but omits Stewart's plan to investigate volunteering opportunities. Includes a context-dependent question.
+71,BERT2BERT,"Greg: Hi Mum, how's the cat doing?
+Patti: I just rang the vets, she's fine!
+Greg: Thank God, been worrying about her all day!
+Patti: They said I can pick her up later. I'll pop home and fetch the cage after work. Should be there at 5ish.
+Greg: Good, see you at home, bye!","Patti and Greg's cat is getting better, so Patti will pick it up later. Patti will come back home at around 5 pm.",dave and dave will pick up up for a new date.,0,0,1,1,"Introduces unsupported person Dave and a date, repeats words, and misses the cat's condition and pickup arrangements."
+71,Refined TextRank,"Greg: Hi Mum, how's the cat doing?
+Patti: I just rang the vets, she's fine!
+Greg: Thank God, been worrying about her all day!
+Patti: They said I can pick her up later. I'll pop home and fetch the cage after work. Should be there at 5ish.
+Greg: Good, see you at home, bye!","Patti and Greg's cat is getting better, so Patti will pick it up later. Patti will come back home at around 5 pm.","Greg: Thank God, been worrying about her all day! Patti: They said I can pick her up later. I'll pop home and fetch the cage after work. Should be there at 5ish. Greg: Good, see you at home, bye!",1,1,0,0,Preserves the cat pickup plan and approximate 5 PM arrival time. Omits explicit confirmation that the cat is doing well.
+46,BERT2BERT,"Fiona: Are you free?
+Tina: Yes, what's up?
+Fiona: I'm trying to prepare a nice dinner for Chris and I thought that maybe I could prepare this tart of yours :)
+Tina: I'm flattered!
+Fiona: Well, it IS delicious :) Could help me do it?
+Tina: Sure! It's not difficult. Do you have anything ready?
+Fiona: I must admit I bought the crust...
+Tina: Oh, ok :P Pity, but well, it's too late now.
+Fiona: I tried making the filling once, but I finished with lemony scrambled eggs...
+Tina: It happens, don't worry. The thing is that once you start adding eggs you can't stop mixing it, otherwise you'll end up with scrambled eggs.",Fiona wants to prepare dinner for Chris. She is thinking of Tina's tart. She will help her make it.,matt and matt are going to eat a diet. she will eat. she will eat her.,0,0,1,1,Introduces unsupported person Matt and diet-related information. Repeats phrases and fails to capture the dinner preparation discussion.
+46,Refined TextRank,"Fiona: Are you free?
+Tina: Yes, what's up?
+Fiona: I'm trying to prepare a nice dinner for Chris and I thought that maybe I could prepare this tart of yours :)
+Tina: I'm flattered!
+Fiona: Well, it IS delicious :) Could help me do it?
+Tina: Sure! It's not difficult. Do you have anything ready?
+Fiona: I must admit I bought the crust...
+Tina: Oh, ok :P Pity, but well, it's too late now.
+Fiona: I tried making the filling once, but I finished with lemony scrambled eggs...
+Tina: It happens, don't worry. The thing is that once you start adding eggs you can't stop mixing it, otherwise you'll end up with scrambled eggs.",Fiona wants to prepare dinner for Chris. She is thinking of Tina's tart. She will help her make it.,"Tina: Yes, what's up? Fiona: I tried making the filling once, but I finished with lemony scrambled eggs... Tina: It happens, don't worry. The thing is that once you start adding eggs you can't stop mixing it, otherwise you'll end up with scrambled eggs.",0,0,0,0,Accurately extracts cooking advice but misses Fiona's plan to prepare dinner for Chris and her request for Tina's help making the tart.
+45,BERT2BERT,"Barbara: I'm home already, you can come over
+Sean: May I bring the dog?
+Zac: I'm on my way
+Barbara: sure you can, Sean
+Barbara: do you want to stay overnight?
+Sean: great!
+Sean: I thought about it
+Barbara: nice!","Barbara, Sean and Zac are meeting at Barbara's place tonight. Sean will bring the dog. Sean and Zac will stay overnight.",sean will go to the dog.,0,0,1,0,Mentions Sean and the dog but incorrectly describes Sean as going to the dog. Misses the gathering and overnight discussion.
+45,Refined TextRank,"Barbara: I'm home already, you can come over
+Sean: May I bring the dog?
+Zac: I'm on my way
+Barbara: sure you can, Sean
+Barbara: do you want to stay overnight?
+Sean: great!
+Sean: I thought about it
+Barbara: nice!","Barbara, Sean and Zac are meeting at Barbara's place tonight. Sean will bring the dog. Sean and Zac will stay overnight.","Sean: May I bring the dog? Barbara: sure you can, Sean Sean: I thought about it",0,0,0,0,"Correctly preserves Sean's request to bring the dog and Barbara's permission, but misses the gathering at Barbara's home and the overnight discussion."
+40,BERT2BERT,"Marika: Are you coming today?
+Lara: Yes!
+Marika: Great!",Marika is coming today.,pam and pam will go to the city.,0,0,1,1,Introduces unsupported person Pam and a trip to the city. Repeats the name and fails to capture Lara's confirmation that she is coming.
+40,Refined TextRank,"Marika: Are you coming today?
+Lara: Yes!
+Marika: Great!",Marika is coming today.,Marika: Are you coming today?,1,0,0,0,"Captures the topic of someone coming today but extracts only Marika's question, omitting Lara's confirmation. Reference summary appears to attribute the visit to the wrong person."
+23,BERT2BERT,"Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much","Casey got a new nail polish and did her nails herself. It took her nearly 4 hours, so she won't do her friends' nails, as it takes too long.",casey is going to get a new new job.,0,0,1,1,"Invents an unsupported job-related event, repeats 'new', and fails to capture the nail-polish discussion."
+23,Refined TextRank,"Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much","Casey got a new nail polish and did her nails herself. It took her nearly 4 hours, so she won't do her friends' nails, as it takes too long.",Amelia: these are so nice!!! did you do them yourself? Amelia: i want my nails done like that too! Amelia: can you do it for us too?,1,0,0,0,"Captures Amelia's interest in Casey's nails and her request for help, but omits Casey's refusal and the four-hour time commitment."
+81,BERT2BERT,"Janet: I am ashamed. Who voted for this pussy? It's your fault.
+Alison: Remember the Wizard of Oz? He might have melted.
+Nicole: He’s a sissy boy.
+Cheryl:  RAIN omfg thats so shameful and disrespectful 😡
+Buff: Pussy in Chief.
+Linda: Trump is selfish and inconsiderate.
+Janet: What an embarrassment to our nation and the world!!!
+Roz: Where is Elsie? I miss you vomit 😊
+Cheryl: WTF EVER trumpola didnt want to mess up his pity full comb over.....
+Janet: Trump = snowflake
+Linda: Baby. He’s a spoiled brat baby. Nothing about Donald Trump to be proud of or want to defend.
+Arlene: HIs hair and makeup would have been ruined!
+Roz: Exactly 😊
+Leslie: Which adviser, who he doesn't listen to anyway, thought missing this ceremony was a good idea? Shameful!
+Eric: What a pussy. We should grab him and kick him to the curb.
+Sue: All the other leaders managed to make it, so there is no excuse, for me.
+Roz:  It's all about the hair.
+Sue: afraid the colour of his orange hair would run????
+Linda: Never heard of an umbrella :)","Janet, Nicole, Alison, Arlene, Leslie, Ros, Eric and Sue are all complaining about Donald Trump and his absence at the ceremony. ",janet and hillary are going to meet with a party. she ' s not going to buy a party.,0,0,1,1,"Introduces unsupported references to Hillary, a meeting, and a party. Repeats 'party' and fails to capture the discussion about Trump's absence from a ceremony."
+81,Refined TextRank,"Janet: I am ashamed. Who voted for this pussy? It's your fault.
+Alison: Remember the Wizard of Oz? He might have melted.
+Nicole: He’s a sissy boy.
+Cheryl:  RAIN omfg thats so shameful and disrespectful 😡
+Buff: Pussy in Chief.
+Linda: Trump is selfish and inconsiderate.
+Janet: What an embarrassment to our nation and the world!!!
+Roz: Where is Elsie? I miss you vomit 😊
+Cheryl: WTF EVER trumpola didnt want to mess up his pity full comb over.....
+Janet: Trump = snowflake
+Linda: Baby. He’s a spoiled brat baby. Nothing about Donald Trump to be proud of or want to defend.
+Arlene: HIs hair and makeup would have been ruined!
+Roz: Exactly 😊
+Leslie: Which adviser, who he doesn't listen to anyway, thought missing this ceremony was a good idea? Shameful!
+Eric: What a pussy. We should grab him and kick him to the curb.
+Sue: All the other leaders managed to make it, so there is no excuse, for me.
+Roz:  It's all about the hair.
+Sue: afraid the colour of his orange hair would run????
+Linda: Never heard of an umbrella :)","Janet, Nicole, Alison, Arlene, Leslie, Ros, Eric and Sue are all complaining about Donald Trump and his absence at the ceremony. ",Janet: I am ashamed. Who voted for this pussy? It's your fault. Linda: Baby. He’s a spoiled brat baby. Nothing about Donald Trump to be proud of or want to defend. Roz:  It's all about the hair.,1,0,0,0,"Captures participants' criticism of Trump but omits his absence from the ceremony, which prompted the discussion."
+11,BERT2BERT,"Jane: google maps says it is at least 3h <file_other>
+Steven: I used to make it in 2, trust me :D
+Jane: but it's almost 300km..
+Steven: the road is new , we will make it ^^
+Jane: I don't want  to stress out , let's meet at 4:30 instead of 5, ok?
+Steven: ok, if u reaaly want, we can meet at 4:30
+Jane: thx! 
+Jane: I will wait at the main entrance or where?
+Steven: main entrance is good for me;-) 
+Steven: cu",Jane wants to leave at 4.30 instead of 5 because Google Maps suggests the 300 km drive should take them at least 3 hours and she doesn't want to be late. She will wait for Steven at the main entrance.,jane and jane will meet at the main entrance to the main entrance.,1,0,0,1,Identifies Jane and the main entrance but omits the agreed meeting time of 4:30. Repeats Jane's name and 'main entrance'. No clearly unsupported event is introduced.
+11,Refined TextRank,"Jane: google maps says it is at least 3h <file_other>
+Steven: I used to make it in 2, trust me :D
+Jane: but it's almost 300km..
+Steven: the road is new , we will make it ^^
+Jane: I don't want  to stress out , let's meet at 4:30 instead of 5, ok?
+Steven: ok, if u reaaly want, we can meet at 4:30
+Jane: thx! 
+Jane: I will wait at the main entrance or where?
+Steven: main entrance is good for me;-) 
+Steven: cu",Jane wants to leave at 4.30 instead of 5 because Google Maps suggests the 300 km drive should take them at least 3 hours and she doesn't want to be late. She will wait for Steven at the main entrance.,"Jane: I don't want  to stress out , let's meet at 4:30 instead of 5, ok? Jane: I will wait at the main entrance or where? Steven: main entrance is good for me;-)",1,1,0,0,Correctly preserves the revised meeting time of 4:30 and the confirmed meeting location at the main entrance. Omits the estimated travel time motivating the earlier departure.
+1,BERT2BERT,"Olafur: are we doing anything for New Year's Eve?
+Nathalie: I was thinking about something classy, like opera or sth like that
+Zoe: how much does it cost?
+Olafur: opera is not for me
+Nathalie: so what do you propose?
+Nathalie: it's 100$ 
+Olafur: I was thinking about partying somewhere
+Nathalie: partying sounds fun, as long as it will be classy
+Zoe: <file_link>
+Zoe: Breakfast at Tiffany's party sounds classy
+Olafur: <file_link> 
+Olafur: is it classy enough?
+Nathalie: :O
+Nathalie: this club is AMAZING
+Zoe: whoa
+Nathalie: we'll going to Soho then
+Olafur: we just need to hurry up and buy some tickets soon
+Zoe: sure","Nathalie, Olafur and Zoe are planning the New Year's Eve. Nathalie wants something classy. Olafur doesn't like opera. They want to go to the Breakfast at Tiffany's party in Soho.",nathal is going to go to the cinema. she will go to the cinema.,0,0,1,1,"Invents a trip to the cinema, repeats the unsupported activity, and fails to capture the New Year's Eve planning discussion."
+1,Refined TextRank,"Olafur: are we doing anything for New Year's Eve?
+Nathalie: I was thinking about something classy, like opera or sth like that
+Zoe: how much does it cost?
+Olafur: opera is not for me
+Nathalie: so what do you propose?
+Nathalie: it's 100$ 
+Olafur: I was thinking about partying somewhere
+Nathalie: partying sounds fun, as long as it will be classy
+Zoe: <file_link>
+Zoe: Breakfast at Tiffany's party sounds classy
+Olafur: <file_link> 
+Olafur: is it classy enough?
+Nathalie: :O
+Nathalie: this club is AMAZING
+Zoe: whoa
+Nathalie: we'll going to Soho then
+Olafur: we just need to hurry up and buy some tickets soon
+Zoe: sure","Nathalie, Olafur and Zoe are planning the New Year's Eve. Nathalie wants something classy. Olafur doesn't like opera. They want to go to the Breakfast at Tiffany's party in Soho.","Nathalie: I was thinking about something classy, like opera or sth like that Nathalie: partying sounds fun, as long as it will be classy Olafur: is it classy enough?",1,0,0,0,Captures the preference for a classy celebration but omits the final Soho decision and the need to buy tickets.
+19,BERT2BERT,"Meg: still at school?
+Ann: i have extra math classes
+Meg: so when can i meet you?
+Ann: i will be home at 7",Ann is still at school. She will be home at 7 so she can meet Meg then.,meg will meet at the school.,1,0,1,0,"Identifies Meg and the school but incorrectly implies a meeting at school. Omits Ann's arrival home at 7, the key scheduling detail."
+19,Refined TextRank,"Meg: still at school?
+Ann: i have extra math classes
+Meg: so when can i meet you?
+Ann: i will be home at 7",Ann is still at school. She will be home at 7 so she can meet Meg then.,Ann: i have extra math classes Meg: so when can i meet you? Ann: i will be home at 7,1,1,0,0,"Preserves Ann's extra math classes, Meg's meeting question, and Ann's expected arrival home at 7."
+31,BERT2BERT,"Ann: Congratulations!!
+Ann: You did great, both of you!
+Sue: Thanks, Ann
+Julie: I'm glad it's over!
+Julie: That's co cute of you, girl!
+Ann: Let's have a little celebration tonight! 
+Sue: I'm in
+Julie: me too!!! aww","Ann, Sue and Julie did a great job and they will have a little celebration tonight.",ann and ann will meet at the wedding.,0,0,1,1,"Invents a wedding, repeats Ann's name, and fails to capture the congratulations or planned celebration."
+31,Refined TextRank,"Ann: Congratulations!!
+Ann: You did great, both of you!
+Sue: Thanks, Ann
+Julie: I'm glad it's over!
+Julie: That's co cute of you, girl!
+Ann: Let's have a little celebration tonight! 
+Sue: I'm in
+Julie: me too!!! aww","Ann, Sue and Julie did a great job and they will have a little celebration tonight.","Ann: You did great, both of you! Julie: That's co cute of you, girl! Ann: Let's have a little celebration tonight!",1,1,0,0,"Preserves the congratulations and proposed celebration tonight, but omits Sue's and Julie's explicit acceptance."
+74,BERT2BERT,"Allison: Hey girls! 
+Maya: hey!
+Sarah:  hey, why you so cheerful?
+Allison: Guess what!
+Allison: I've got a scholarship!
+Maya: no way! you have made it!
+Sarah: shut up!
+Allison: yeee, and it is the highest posible rank i could get
+Maya: we so proud, when do we celebrate!?
+Sarah: <file_gif> 
+Allison: Whenever you want! thank you <3",Allison has got a scholarship.,allison and allison will meet the invitation to meet with her.,0,0,1,1,"Introduces an unsupported meeting or invitation, repeats Allison's name and 'meet', and fails to identify the scholarship announcement."
+74,Refined TextRank,"Allison: Hey girls! 
+Maya: hey!
+Sarah:  hey, why you so cheerful?
+Allison: Guess what!
+Allison: I've got a scholarship!
+Maya: no way! you have made it!
+Sarah: shut up!
+Allison: yeee, and it is the highest posible rank i could get
+Maya: we so proud, when do we celebrate!?
+Sarah: <file_gif> 
+Allison: Whenever you want! thank you <3",Allison has got a scholarship.,"Allison: yeee, and it is the highest posible rank i could get Maya: we so proud, when do we celebrate!? Allison: Whenever you want! thank you <3",0,0,0,0,"Captures reactions to Allison's achievement and a possible celebration but omits the scholarship itself, leaving the central event unidentified."
+34,BERT2BERT,"Joyce: Check this out!
+Joyce: <link>
+Michael: That's cheap!
+Edson: No way! I'm booking my ticket now!! ",Edson is booking his ticket now.,joyce and ann will buy a new new cinema.,0,0,1,1,Introduces unsupported person Ann and a cinema purchase. Repeats 'new' and fails to capture Edson's ticket booking.
+34,Refined TextRank,"Joyce: Check this out!
+Joyce: <link>
+Michael: That's cheap!
+Edson: No way! I'm booking my ticket now!! ",Edson is booking his ticket now.,Edson: No way! I'm booking my ticket now!!,1,1,0,0,Correctly preserves Edson's statement that he is booking his ticket immediately. Does not invent the ticket's purpose.
+91,BERT2BERT,"Vincent: <file_photo>
+Damian: What happened to your lamp?
+Vincent: I broke it xD 
+Vincent: With my bare hand
+Damian: You didn't do this just to show off did you?
+Vincent: Hahaha. xD No.
+Vincent: I was playing with my cat with a ribbon
+Vincent: And while raising my hand I just hit the lamp and the glass cover broke
+Damian: Shit happens. You ordered new one yet?
+Vincent: Yeah. Should be ready to pick up on Tuesday xD",Vincent's new lamp should be ready to be picked up on Tuesday.,damian is going to the photo.,0,0,1,0,Incorrectly describes Damian as going to a photo. Fails to capture the broken lamp or replacement pickup arrangements.
+91,Refined TextRank,"Vincent: <file_photo>
+Damian: What happened to your lamp?
+Vincent: I broke it xD 
+Vincent: With my bare hand
+Damian: You didn't do this just to show off did you?
+Vincent: Hahaha. xD No.
+Vincent: I was playing with my cat with a ribbon
+Vincent: And while raising my hand I just hit the lamp and the glass cover broke
+Damian: Shit happens. You ordered new one yet?
+Vincent: Yeah. Should be ready to pick up on Tuesday xD",Vincent's new lamp should be ready to be picked up on Tuesday.,Vincent: I broke it xD Vincent: With my bare hand Vincent: And while raising my hand I just hit the lamp and the glass cover broke,1,0,0,0,Correctly describes how Vincent broke the lamp but omits the replacement order and Tuesday pickup arrangement.
+5,BERT2BERT,"Sam: Where are you?
+Kate: downstairs
+Sam: already?
+Kate: sure, come down
+Jeff: We're in the little room next to the reception
+Kate: have you noticed the woman making a cake?
+Sam: yes
+Kate: did you see the cake?
+Sam: I didn't pay attention, why?
+Kate: there was a huge penis on it
+Kate: made of marzipan or sth
+Sam: hahah, really?
+Kate: when I noticed it, I started laughing
+Kate: so she laughed too
+Sam: nice
+Kate: I asked her what's she doing
+Kate: Somebody ordered a cake with a huge penis with balls and chocolate hair
+Sam: hahah, I must see it!
+Kate: she is working in the small room under the stairs
+Sam: right, there is a kitchen",Kate and Jeff are downstairs in a room next to the reception. Some lady is making a marzipan cake. ,kate and kate will pick up up with a coffee. kate ' s going to buy a coffee.,0,0,1,1,"Invents a coffee purchase and pickup arrangement. Repeats Kate's name and 'up', while missing both the location information and cake discussion."
+5,Refined TextRank,"Sam: Where are you?
+Kate: downstairs
+Sam: already?
+Kate: sure, come down
+Jeff: We're in the little room next to the reception
+Kate: have you noticed the woman making a cake?
+Sam: yes
+Kate: did you see the cake?
+Sam: I didn't pay attention, why?
+Kate: there was a huge penis on it
+Kate: made of marzipan or sth
+Sam: hahah, really?
+Kate: when I noticed it, I started laughing
+Kate: so she laughed too
+Sam: nice
+Kate: I asked her what's she doing
+Kate: Somebody ordered a cake with a huge penis with balls and chocolate hair
+Sam: hahah, I must see it!
+Kate: she is working in the small room under the stairs
+Sam: right, there is a kitchen",Kate and Jeff are downstairs in a room next to the reception. Some lady is making a marzipan cake. ,Kate: have you noticed the woman making a cake? Kate: there was a huge penis on it Kate: Somebody ordered a cake with a huge penis with balls and chocolate hair,1,0,0,0,Correctly captures the unusual cake discussion but omits Kate and Jeff's location near reception and the cake maker's location under the stairs.
+77,BERT2BERT,"Charlotte: Hello Paula, a funny question: how do you pronounce 'Natal lily', the name of the plant? It refers to the region of ZA and not to the word 'natal' as in 'his natal day', right?
+Paula: Hi Charlotte, 'nu tell', 'nu' as in 'number'.
+Charlotte: And the stress on the second syllable? Or the first?
+Paula: 2nd
+Charlotte: Thank you dear.
+Paula: <file_other>
+Charlotte: Lovely to hear your voice!!
+Paula: :$
+Paula: <file_other>
+Charlotte: :X","Paula helped Charlotte with correct pronunciation of ""Natal lily"".",paula is going to the diet.,0,0,1,0,Invents an unrelated diet activity and fails to capture the pronunciation question or Paula's guidance.
+77,Refined TextRank,"Charlotte: Hello Paula, a funny question: how do you pronounce 'Natal lily', the name of the plant? It refers to the region of ZA and not to the word 'natal' as in 'his natal day', right?
+Paula: Hi Charlotte, 'nu tell', 'nu' as in 'number'.
+Charlotte: And the stress on the second syllable? Or the first?
+Paula: 2nd
+Charlotte: Thank you dear.
+Paula: <file_other>
+Charlotte: Lovely to hear your voice!!
+Paula: :$
+Paula: <file_other>
+Charlotte: :X","Paula helped Charlotte with correct pronunciation of ""Natal lily"".","Paula: Hi Charlotte, 'nu tell', 'nu' as in 'number'. Charlotte: And the stress on the second syllable? Or the first? Charlotte: Lovely to hear your voice!!",1,0,0,0,"Captures the pronunciation explanation and Charlotte's question about syllable stress, but omits Paula's answer that the stress falls on the second syllable."
+78,BERT2BERT,"Nathalie: have you thought about the holiday?
+Pauline: me & tony are into greece really
+Jacob: anywhere warm and sunny. greece cool
+Anthony: greece is warm sunny and cheapish
+Nathalie: i guess cob we ok w that
+Jacob: sure thing
+Pauline: so august as we said?
+Jacob: thats the thing. we need to be back by aug 10
+Anthony: what?? why??
+Nathalie: sis wedding
+Pauline: your lil sis getting married?!? lol
+Jacob: she's not little. seen her tony?
+Anthony: worth a look?
+Nathalie: shut up assholes. shes my sister for fucks sake
+Pauline: idiots
+Jacob: come one just kidding. we love you
+Anthony: we have no choice XD","Nathalie, Pauline, Jacob and Anthony are thinking about spending holidays in Greece together in August. Jacob and Nathalie need to be back by August 10 because of Nathalie's younger sister's wedding. ",nathal is going to the cinema. they will go to the wedding.,0,0,1,0,Invents a cinema visit and inaccurately presents the wedding as a group activity. Misses the Greece holiday plan and August 10 return deadline.
+78,Refined TextRank,"Nathalie: have you thought about the holiday?
+Pauline: me & tony are into greece really
+Jacob: anywhere warm and sunny. greece cool
+Anthony: greece is warm sunny and cheapish
+Nathalie: i guess cob we ok w that
+Jacob: sure thing
+Pauline: so august as we said?
+Jacob: thats the thing. we need to be back by aug 10
+Anthony: what?? why??
+Nathalie: sis wedding
+Pauline: your lil sis getting married?!? lol
+Jacob: she's not little. seen her tony?
+Anthony: worth a look?
+Nathalie: shut up assholes. shes my sister for fucks sake
+Pauline: idiots
+Jacob: come one just kidding. we love you
+Anthony: we have no choice XD","Nathalie, Pauline, Jacob and Anthony are thinking about spending holidays in Greece together in August. Jacob and Nathalie need to be back by August 10 because of Nathalie's younger sister's wedding. ",Pauline: me & tony are into greece really Jacob: anywhere warm and sunny. greece cool Anthony: greece is warm sunny and cheapish,1,0,0,0,Correctly identifies Greece as the preferred holiday destination and captures the reasons for choosing it. Omits the August timing and the August 10 return deadline for Nathalie's sister's wedding.
+13,BERT2BERT,"Anna: Mum, I have a awful stomachache.
+Joanna: Oh, dear, when did you get it?
+Anna: At night, and it won’t stop:-(
+Joanna: Is it something you ate?
+Anna: Maybe. I'm not sure.
+Joanna: What did you have for breakfast?
+Anna: The usual, cereal with milk and a banana.
+Joanna: Maybe the milk was bad.
+Anna: It didn't smell bad.
+Joanna: Maybe the banana was bad.
+Anna: No, the banana was delicious.
+Joanna: Maybe you just need to go to the bathroom.
+Anna: No, that's not the problem.
+Joanna: Maybe it will go away in a little while.
+Anna: I wish it would :-(
+Anna: Hopefully. If not, maybe we should go and see a doctor.
+Joanna: Yeah, I think so...
+Anna: I’ll get you a hot tea with some fresh mint leaves. Hope it will help. 
+Joanna: Please do, I’m in my room...
+Anna: Will be in ten minutes:-)",Anna got an awful stomachache at night but she doesn't know its cause. Her mom Joanna will make her hot tea with some fresh mint leaves.,anna is going to buy a coffee. she ' s going to buy a coffee.,0,0,1,1,"Invents an unrelated coffee purchase and repeats the same statement. Misses the stomachache, possible causes, and remedies."
+13,Refined TextRank,"Anna: Mum, I have a awful stomachache.
+Joanna: Oh, dear, when did you get it?
+Anna: At night, and it won’t stop:-(
+Joanna: Is it something you ate?
+Anna: Maybe. I'm not sure.
+Joanna: What did you have for breakfast?
+Anna: The usual, cereal with milk and a banana.
+Joanna: Maybe the milk was bad.
+Anna: It didn't smell bad.
+Joanna: Maybe the banana was bad.
+Anna: No, the banana was delicious.
+Joanna: Maybe you just need to go to the bathroom.
+Anna: No, that's not the problem.
+Joanna: Maybe it will go away in a little while.
+Anna: I wish it would :-(
+Anna: Hopefully. If not, maybe we should go and see a doctor.
+Joanna: Yeah, I think so...
+Anna: I’ll get you a hot tea with some fresh mint leaves. Hope it will help. 
+Joanna: Please do, I’m in my room...
+Anna: Will be in ten minutes:-)",Anna got an awful stomachache at night but she doesn't know its cause. Her mom Joanna will make her hot tea with some fresh mint leaves.,Joanna: Maybe the milk was bad. Joanna: Maybe the banana was bad. Joanna: Maybe it will go away in a little while.,0,0,0,0,Extracts speculative explanations about milk and bananas but does not identify Anna's stomachache. Omits the possible doctor visit and mint tea. The original dialogue also has inconsistent speaker labels in its final messages.
+32,BERT2BERT,"Callan: Something's wrong with my Samsung S8.
+Wade: What, exactly?
+Callan: All I get is a black screen.
+Wade: Did you drop it or something?
+Callan: I think I know, this has happened before.
+Wade:  It did? What happened before?
+Callan: It overheats and then it takes a while for it to restart again..
+Wade: That sucks.. Be carefull with the battery, it can be dangerous.
+Callan: It sure can, but I'm going to the store and let them see it. It's still under warranty.
+Wade: Will you lose all your stuff?
+Callan: No, I always back up my files.","Callan's Samsung S8 overheats, so he's going to the store to get it repaired.",deer is going to the screen.,0,0,1,0,Invents an unrelated person or activity and fails to describe the Samsung S8 overheating problem or planned repair.
+32,Refined TextRank,"Callan: Something's wrong with my Samsung S8.
+Wade: What, exactly?
+Callan: All I get is a black screen.
+Wade: Did you drop it or something?
+Callan: I think I know, this has happened before.
+Wade:  It did? What happened before?
+Callan: It overheats and then it takes a while for it to restart again..
+Wade: That sucks.. Be carefull with the battery, it can be dangerous.
+Callan: It sure can, but I'm going to the store and let them see it. It's still under warranty.
+Wade: Will you lose all your stuff?
+Callan: No, I always back up my files.","Callan's Samsung S8 overheats, so he's going to the store to get it repaired.","Wade: Did you drop it or something? Callan: I think I know, this has happened before. Wade:  It did? What happened before?",0,0,0,0,"Extracts questions about the phone problem but omits the black screen, recurring overheating, warranty, and planned store visit."

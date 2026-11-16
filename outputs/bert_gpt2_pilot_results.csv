@@ -1,0 +1,172 @@
+id,dialogue,reference,generated,rouge1,rouge2,rougeL,compression_ratio,inference_time
+13682090,"Pauline: Wine in the evening?
+Crystal: yes, please!
+Pauline: sth happened?
+Crystal: Hard day in work :/
+Pauline: oh, poor thing. Should I buy sth else?
+Crystal: Lots of wine :D
+Pauline: got it :)",Crystal and Pauline are drinking some wine this evening. Crystal had a bad day at work.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.0273972602739726,0.0,0.0273972602739726,-0.6285714285714286,9.720397921002586
+13611809,"Kate: What do you want for dinner?
+Gina: Didn't think of it, yet
+Kate: Maybe spaghetti?
+Gina: Yes, I love it",Gina wants spaghetti for dinner.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.0,0.0,0.0,-1.7142857142857144,8.825507087996812
+13681295,"Jojo: Heyhey! I have just come from the interview and they want me (!!!)
+Matt: Yay! Of course they do! Have you decided?
+Jojo: i wanted to talk to you first :P pick up pls",Jojo has got a job offer and wants Matt's advice before taking a decision.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.05555555555555556,0.0,0.05555555555555556,-0.6285714285714286,11.114598338004726
+13729206,"Tram: Are we taking the bus
+Tram: ?
+Brody: Idk
+Brody: You think it's better?
+Tram: Trains aren't running rn
+Tram: Or we take the cab
+Brody: Nah lets take the bus",Brody and Tram will take the bus.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.03125,0.0,0.03125,-0.78125,11.65941838100116
+13862210,"Albert: I can't wait for the new season of American Gods to come out
+Jeffrey: Yep, me too, too bad it's not Netflix and it won't be possible to binge watch it properly
+Albert: Yep, a weekly schedule kinda sucks
+Jeffrey: These streaming apps are turning us into spoiled kids XD
+Albert: Yeah XD
+Jeffrey: Anyway I hope the new season is as great as the first one even without the original showrunners
+Albert: Yep, it's a risky situation
+Jeffrey: We just have to wait and see
+Albert: Yep",Albert and Jeffrey are waiting for the new season of American Gods. They wish it was released on Netflix.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.05263157894736842,0.0,0.05263157894736842,0.3595505617977528,10.080545129996608
+13717085,"Eleonor: ok gals where do we meet up next Sunday?
+Patricia: I'm out, my mother in law has bday :C
+Tasha: oh fuck so you'll spend Sunday with Cercei then
+Betty: I want to meet up next to Palladium cinema
+Eleonor: ok so we'll meet up (minus Pat) at Jeff's bar
+Tasha: are u serious? bar? do you want to seduce a bald 40 yr old divorcee?
+Patricia: lol
+Patricia: looks I'll be missing out a lot
+Betty: isn't Gloria a bald 40 yr old divorcee too? 
+Eleonor: hahahaha
+Patricia: LOL
+Tasha: <file_gif>
+Betty: let's meet up in that French place, it's not cheap but c'mon it's SO worth it
+Tasha: agreed
+Eleonor: ok
+Patricia: if she dies before Sunday I'll come too
+Eleonor: lol","Eleonor, Tasha and Betty are going to meet at the French place next Sunday. Patricia will not join them because it is the birthday of her mother in law. Patricia profoundly dislikes her mother in law.","The first time I saw a man in a car with a broken windshield, I was surprised. He was a man with a broken windshield. He was a man with a broken windshield. He was a man with a broken windshield. He was a man with a broken windshield. He was a man with a broken windshield.",0.043010752688172046,0.0,0.043010752688172046,0.544,10.086927629999991
+13681385,"Callum: <file_photo>
+Saanvi: Hahahha finally I see ur pic when u smiling widely :)
+Callum: Hahaha I've never seen yours too
+Saanvi: But I almost always smile. U saw. Me and my friend on the beach
+Callum: Now ?
+Saanvi: A photo
+Callum: No but not a wide smile
+Saanvi: Where I'm with my friend on the beach.  For me it's a wide  one :) My mouth is small hahahahha So I can't make as big smile as urs hahaha
+Callum: Hahaha",Callum's picture shows him when he is smiling widely. Callum has never seen Saanvi's picture where Saanvi is smiling widely.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.02531645569620253,0.0,0.02531645569620253,0.30487804878048785,8.89637283799675
+13612135,"Chris: Hi there! It IS raining! What shall we do?
+Denis: Wait it out I guess. And it doesn't stop before 11, just give up.
+Chris: It would be a pity, wouldn't it?
+Denis: So what? There's always another time.
+Chris: I guess UR right.
+Denis: Till later then.","Chris and Denis are waiting until it stops raining. If it doesn't, they will have to change their plans.","The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.0,0.0,0.0,-0.16326530612244894,8.930940254002053
+13727619,"Mercy: Griffins and Golgoy
+Jughead: haha, youve played the game
+Mercy: it just finished installing
+Jughead: haha, better play, its so cool
+Mercy: yeah, i bet
+Jughead: let me know when you launch
+Mercy: yeah, i will
+Jughead: cool",Mercy has just downloaded Griffins and Golgoy game. She'll play it. ,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.0,0.0,0.0,-0.46153846153846145,9.029686420006328
+13728084,"Edward: Can you give me a hand?
+Geraldine: Sure. What do you need?
+Edward: I'm looking for a good present for Angie. For her b-day.
+Geraldine: I got her a basket of lotions, perfumes, soaps and all that stuff. 
+Edward: That's a great idea. Shame it's taken ;) do you know what she likes?
+Geraldine: Not really, no. I've heard her talking about manga.
+Edward: What's that?
+Geraldine: Japanese comic books.
+Edward: Oh. Did she mention anything specific?
+Geraldine: I don't think so.
+Edward: Well, thanks anyway. I'll dig into it.
+Geraldine: Sure. Whenever. ","Edward wants to buy a birthday present for Angie. Geraldine heard Angie talking about manga, so Edward will dig into the topic.","The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.05063291139240506,0.0,0.05063291139240506,0.3936170212765957,8.202303753998422
+13682336,"Franklin: Mum, our child is crying
+Faye: Yes, my dear, it's often like that
+Franklin: But why is he crying?
+Faye: You know, it is the only way he can tell you what's going on with him, maybe he's hungry, maybe he wants to be changed, maybe he's having pain, stomach ache, toothache?
+Franklin: But what should I do?
+Faye: Try to give him a bottle, if he doesn't want, change his diapers, if not, take him in your arms, it often works
+Franklin: Thanks, mum, I will try. Goodnight","Franklin's and Faye's child is crying. Franklin doesn't know what to do, so he will follow Faye's advice.","The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.02531645569620253,0.0,0.02531645569620253,0.3666666666666667,8.522668170997349
+13864441,"Kamil: did you see Suspiria?
+Henning: Half, then we stopped 😞
+Kamil: so bad? annoying? boring?
+Linda: Just a bit boring. You know that they are all somehow witches
+Linda: But it is not clear why you should care 😬
+Henning: And there is no sex. And not so much other action
+Kamil: I see. I also know it's not easy to keep your attention
+Kamil: you're the cartoon network generation
+Henning: Hahaha. This is really not true
+Henning: As you know","Henning and Linda watched half of ""Suspiria"". They found it boring. There was no sex in the movie.","The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.08,0.0273972602739726,0.05333333333333334,0.30487804878048785,9.040877961997467
+13813366,"Amy: What is important in life?
+Laura: Sex and money
+Amy: If you have money you can always have sex
+Amy: I think love is more important
+Amy: You cannot buy it
+Laura: Naah, love makes you suffer
+Laura: I don’t want to suffer anymore. I want to be a rich bitch who gets amazing orgasms for breakfast. ","For Laura, sex and money are most important in life. In Anna's opinion, love is more important.","The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.02666666666666667,0.0,0.02666666666666667,0.017241379310344862,9.192920212997706
+13727710,"Gita: Hello, this is Beti's Mum Gita, I wanted to ask if you were going on the school trip?
+Bev: Hi Gita, yes, Milo wants me to come, he's a bit nervous going away from home or school still.
+Gita: Yes, Beti is the same, they are still only 4 or 5 after all.
+Bev: I know, still so young! It will help the teachers and TAs anyway, they have a lot to cope with!
+Gita: I know, I could never do their job! I work part time as a music teacher, going round schools.
+Bev: Oh really? I am in Marks, part time too, love it there! 
+Gita: Yes, it really helps to do some sort of work doesn't it! I could never manage full time, though.
+Bev: Oh, I know, Gita. My sister's in management and she doesn't see her kids from 6.30am to 6.30pm every day! She is a high flier, but she does miss them. She does do lots with them on the weekend, though.
+Gita: Yes, but children need time to just be at home and play or just be with family, not galavanting around all the time!
+Bev: I agree 100%! Is Beti looking forward to feeding the lambs and seeing the baby animals on the farm, Milo is very excited.
+Gita: Oh yes! She loves animals, we have a few pets at home.
+Bev: Well, we only have fish, they are pretty but not very interesting!
+Gita: Suppose you're right! What time do we have to be at school on Wednesday?
+Bev: Quite early, I think about 7.45, the bus leaves at 8 and we get to Holly Farm about 10, I think.
+Gita: Hope the rain keeps off, especially if it's outdoors. I'll check their website.
+Bev: Yes, good idea. Anyway, see you Weds, Gita!
+Gita: Bye, Bev!",Bev is going on the school trip with her son. Gita is going on the school trip with her daughter. Bev's sister rarely sees her children during the week because of her job. Gita has a few pets at home. The mothers with their children have to be at school at 7.45 to not miss the bus.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.10344827586206898,0.0,0.08620689655172413,0.8137254901960784,9.559291753997968
+13715796,"Ali: Bristol Half Marathon! It’s taken me a whole year to sort this out but hope people will enjoy this!
+Gina: looking forward to Sunday ;)
+Harry: getting ready for it!
+Emma: see u there guys!
+Emily: it’s gonna be fab
+Ali: thanks for your support!","Ali will run the half marathon in Bristol on Sunday. Gina, Harry, Emma and Emily support him.","The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.05405405405405405,0.0,0.05405405405405405,-0.23913043478260865,8.498370503999467
+13828401,"Alison: hey 😚
+Carole: hi there 😚
+Alison: whats new? are you and Jake getting along?
+Carole: yes, it's awesome 😎 never been with the guy that cares so much
+Alison: im so happy for you
+Alison: <file_gif>
+Carole: hes such a sweetheart
+Alison: send me his pic, I judge haha
+Carole: <file_photo>
+Alison: im jealous now, hes a hottie
+Carole: ikr!😉",Casole is happy with Jake. Alison thinks he's a hottie. ,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.08823529411764705,0.0,0.08823529411764705,0.08064516129032262,8.641085795003164
+13728940,"Anna: I am so fed up with the carpet
+Chay: What happened?
+Anna: Nothing much, I am just really fed up with the carpet.
+Chay: Any particular carpet?
+Anna: No, just my carpet, pretty much anywhere in the house.
+Chay: Colour/texture/cleanliness? anything in particular?
+Anna: all of the above
+Chay: Gosh, you sound fed up indeed.
+Chay: What are you going to do about this? Move out? Replace carpets?
+Anna: I was thinking I could maybe drink a lot of wine and then I won't be fed up anymore. 
+Chay: That could work. Definitely cheapest option.
+Chay: Do you need help? drinking?
+Anna: Always! Bring some wine!
+Chay: Was this a really cunning trick to make me come over with wine?
+Anna: Yeah I can't be bothered to go to the shop and need an excuse!
+Chay: Chapeau!
+Chay: <file_GIF>","Anna complained about her carpet, which was an excuse to invite Chay over with wine.","The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.05555555555555556,0.0,0.05555555555555556,0.5928571428571429,8.3761948379979
+13729625,"Wanda: Have you seen my keys
+Ellie: In your bag I thought
+Wanda: not here 😨 
+Wanda: got them... in my bag...",Wanda lost her keys. They were in her bag.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.030303030303030304,0.0,0.030303030303030304,-1.5909090909090908,8.359747962000256
+13811215,"Zoey: I cant find my shoes
+Lucas: I put it behind the cardboard
+Zoey: Thanks",Lucas put Zoey's shoes behind the cardboard.,"The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.030769230769230767,0.0,0.030769230769230767,-2.8,8.389785170002142
+13862234,"Julia: I'm sick
+Julia: for the second time this month
+Gary: My poor Julia. What is going on this time?
+Julia: angina
+Gary: Are you taking any antibiotic?
+Julia: Yes... but I'm sick and tired of being ill
+Gary: Take a rest and everything's gonna to be ok!","Julia has an angina. She is ill for the second time this month, which upsets her.","The first time I saw a man in the street, he was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with a beard. He was a man with",0.0547945205479452,0.0,0.0547945205479452,-0.1875,9.075616253998305

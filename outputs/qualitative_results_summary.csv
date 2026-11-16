@@ -1,0 +1,3 @@
+model,main_topic_captured,important_details_preserved,unsupported_information,excessive_repetition
+BERT2BERT,10.0,0.0,95.0,65.0
+Refined TextRank,75.0,25.0,0.0,0.0

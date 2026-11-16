@@ -1,0 +1,1054 @@
+id,dialogue,reference,generated,rouge1,rouge2,rougeL,compression_ratio,inference_time
+13682090,"Pauline: Wine in the evening?
+Crystal: yes, please!
+Pauline: sth happened?
+Crystal: Hard day in work :/
+Pauline: oh, poor thing. Should I buy sth else?
+Crystal: Lots of wine :D
+Pauline: got it :)",Crystal and Pauline are drinking some wine this evening. Crystal had a bad day at work.,Pauline: Wine in the evening? Crystal: Lots of wine :D,0.3076923076923077,0.08333333333333334,0.3076923076923077,0.7142857142857143,0.0023352080024778843
+13611809,"Kate: What do you want for dinner?
+Gina: Didn't think of it, yet
+Kate: Maybe spaghetti?
+Gina: Yes, I love it",Gina wants spaghetti for dinner.,"Kate: What do you want for dinner? Gina: Didn't think of it, yet",0.4210526315789473,0.11764705882352941,0.3157894736842105,0.38095238095238093,0.0012144159991294146
+13681295,"Jojo: Heyhey! I have just come from the interview and they want me (!!!)
+Matt: Yay! Of course they do! Have you decided?
+Jojo: i wanted to talk to you first :P pick up pls",Jojo has got a job offer and wants Matt's advice before taking a decision.,Jojo: Heyhey! I have just come from the interview and they want me (!!!) Jojo: i wanted to talk to you first :P pick up pls,0.15,0.0,0.15,0.2571428571428571,0.0014384579990291968
+13729206,"Tram: Are we taking the bus
+Tram: ?
+Brody: Idk
+Brody: You think it's better?
+Tram: Trains aren't running rn
+Tram: Or we take the cab
+Brody: Nah lets take the bus",Brody and Tram will take the bus.,Tram: Are we taking the bus Tram: ?,0.5714285714285714,0.3333333333333333,0.5714285714285714,0.75,0.0018590830004541203
+13862210,"Albert: I can't wait for the new season of American Gods to come out
+Jeffrey: Yep, me too, too bad it's not Netflix and it won't be possible to binge watch it properly
+Albert: Yep, a weekly schedule kinda sucks
+Jeffrey: These streaming apps are turning us into spoiled kids XD
+Albert: Yeah XD
+Jeffrey: Anyway I hope the new season is as great as the first one even without the original showrunners
+Albert: Yep, it's a risky situation
+Jeffrey: We just have to wait and see
+Albert: Yep",Albert and Jeffrey are waiting for the new season of American Gods. They wish it was released on Netflix.,"Albert: Yep, it's a risky situation Albert: Yep",0.14285714285714285,0.0,0.14285714285714285,0.9101123595505618,0.0015882090010563843
+13717085,"Eleonor: ok gals where do we meet up next Sunday?
+Patricia: I'm out, my mother in law has bday :C
+Tasha: oh fuck so you'll spend Sunday with Cercei then
+Betty: I want to meet up next to Palladium cinema
+Eleonor: ok so we'll meet up (minus Pat) at Jeff's bar
+Tasha: are u serious? bar? do you want to seduce a bald 40 yr old divorcee?
+Patricia: lol
+Patricia: looks I'll be missing out a lot
+Betty: isn't Gloria a bald 40 yr old divorcee too? 
+Eleonor: hahahaha
+Patricia: LOL
+Tasha: <file_gif>
+Betty: let's meet up in that French place, it's not cheap but c'mon it's SO worth it
+Tasha: agreed
+Eleonor: ok
+Patricia: if she dies before Sunday I'll come too
+Eleonor: lol","Eleonor, Tasha and Betty are going to meet at the French place next Sunday. Patricia will not join them because it is the birthday of her mother in law. Patricia profoundly dislikes her mother in law.",Patricia: lol Eleonor: lol,0.09999999999999999,0.0,0.049999999999999996,0.968,0.001891624997369945
+13681385,"Callum: <file_photo>
+Saanvi: Hahahha finally I see ur pic when u smiling widely :)
+Callum: Hahaha I've never seen yours too
+Saanvi: But I almost always smile. U saw. Me and my friend on the beach
+Callum: Now ?
+Saanvi: A photo
+Callum: No but not a wide smile
+Saanvi: Where I'm with my friend on the beach.  For me it's a wide  one :) My mouth is small hahahahha So I can't make as big smile as urs hahaha
+Callum: Hahaha",Callum's picture shows him when he is smiling widely. Callum has never seen Saanvi's picture where Saanvi is smiling widely.,Callum: Now ? Callum: Hahaha,0.15384615384615385,0.0,0.15384615384615385,0.9390243902439024,0.001669249999395106
+13612135,"Chris: Hi there! It IS raining! What shall we do?
+Denis: Wait it out I guess. And it doesn't stop before 11, just give up.
+Chris: It would be a pity, wouldn't it?
+Denis: So what? There's always another time.
+Chris: I guess UR right.
+Denis: Till later then.","Chris and Denis are waiting until it stops raining. If it doesn't, they will have to change their plans.","Denis: Wait it out I guess. And it doesn't stop before 11, just give up. Chris: I guess UR right.",0.4390243902439024,0.10256410256410256,0.2926829268292683,0.5918367346938775,0.0015835830054129474
+13727619,"Mercy: Griffins and Golgoy
+Jughead: haha, youve played the game
+Mercy: it just finished installing
+Jughead: haha, better play, its so cool
+Mercy: yeah, i bet
+Jughead: let me know when you launch
+Mercy: yeah, i will
+Jughead: cool",Mercy has just downloaded Griffins and Golgoy game. She'll play it. ,"Mercy: yeah, i will Jughead: cool",0.1111111111111111,0.0,0.1111111111111111,0.8461538461538461,0.001499457997852005
+13728084,"Edward: Can you give me a hand?
+Geraldine: Sure. What do you need?
+Edward: I'm looking for a good present for Angie. For her b-day.
+Geraldine: I got her a basket of lotions, perfumes, soaps and all that stuff. 
+Edward: That's a great idea. Shame it's taken ;) do you know what she likes?
+Geraldine: Not really, no. I've heard her talking about manga.
+Edward: What's that?
+Geraldine: Japanese comic books.
+Edward: Oh. Did she mention anything specific?
+Geraldine: I don't think so.
+Edward: Well, thanks anyway. I'll dig into it.
+Geraldine: Sure. Whenever. ","Edward wants to buy a birthday present for Angie. Geraldine heard Angie talking about manga, so Edward will dig into the topic.",Edward: What's that? Geraldine: Sure. Whenever.,0.13793103448275862,0.0,0.13793103448275862,0.9361702127659575,0.0015087079955264926
+13682336,"Franklin: Mum, our child is crying
+Faye: Yes, my dear, it's often like that
+Franklin: But why is he crying?
+Faye: You know, it is the only way he can tell you what's going on with him, maybe he's hungry, maybe he wants to be changed, maybe he's having pain, stomach ache, toothache?
+Franklin: But what should I do?
+Faye: Try to give him a bottle, if he doesn't want, change his diapers, if not, take him in your arms, it often works
+Franklin: Thanks, mum, I will try. Goodnight","Franklin's and Faye's child is crying. Franklin doesn't know what to do, so he will follow Faye's advice.","Franklin: Mum, our child is crying Franklin: But why is he crying?",0.3529411764705882,0.18749999999999997,0.3529411764705882,0.8666666666666667,0.001792791998013854
+13864441,"Kamil: did you see Suspiria?
+Henning: Half, then we stopped 😞
+Kamil: so bad? annoying? boring?
+Linda: Just a bit boring. You know that they are all somehow witches
+Linda: But it is not clear why you should care 😬
+Henning: And there is no sex. And not so much other action
+Kamil: I see. I also know it's not easy to keep your attention
+Kamil: you're the cartoon network generation
+Henning: Hahaha. This is really not true
+Henning: As you know","Henning and Linda watched half of ""Suspiria"". They found it boring. There was no sex in the movie.",Kamil: I see. I also know it's not easy to keep your attention Henning: As you know,0.1111111111111111,0.0,0.05555555555555555,0.7926829268292683,0.0017269999952986836
+13813366,"Amy: What is important in life?
+Laura: Sex and money
+Amy: If you have money you can always have sex
+Amy: I think love is more important
+Amy: You cannot buy it
+Laura: Naah, love makes you suffer
+Laura: I don’t want to suffer anymore. I want to be a rich bitch who gets amazing orgasms for breakfast. ","For Laura, sex and money are most important in life. In Anna's opinion, love is more important.",Laura: Sex and money Amy: If you have money you can always have sex,0.25,0.20000000000000004,0.25,0.7586206896551724,0.0015422919968841597
+13727710,"Gita: Hello, this is Beti's Mum Gita, I wanted to ask if you were going on the school trip?
+Bev: Hi Gita, yes, Milo wants me to come, he's a bit nervous going away from home or school still.
+Gita: Yes, Beti is the same, they are still only 4 or 5 after all.
+Bev: I know, still so young! It will help the teachers and TAs anyway, they have a lot to cope with!
+Gita: I know, I could never do their job! I work part time as a music teacher, going round schools.
+Bev: Oh really? I am in Marks, part time too, love it there! 
+Gita: Yes, it really helps to do some sort of work doesn't it! I could never manage full time, though.
+Bev: Oh, I know, Gita. My sister's in management and she doesn't see her kids from 6.30am to 6.30pm every day! She is a high flier, but she does miss them. She does do lots with them on the weekend, though.
+Gita: Yes, but children need time to just be at home and play or just be with family, not galavanting around all the time!
+Bev: I agree 100%! Is Beti looking forward to feeding the lambs and seeing the baby animals on the farm, Milo is very excited.
+Gita: Oh yes! She loves animals, we have a few pets at home.
+Bev: Well, we only have fish, they are pretty but not very interesting!
+Gita: Suppose you're right! What time do we have to be at school on Wednesday?
+Bev: Quite early, I think about 7.45, the bus leaves at 8 and we get to Holly Farm about 10, I think.
+Gita: Hope the rain keeps off, especially if it's outdoors. I'll check their website.
+Bev: Yes, good idea. Anyway, see you Weds, Gita!
+Gita: Bye, Bev!",Bev is going on the school trip with her son. Gita is going on the school trip with her daughter. Bev's sister rarely sees her children during the week because of her job. Gita has a few pets at home. The mothers with their children have to be at school at 7.45 to not miss the bus.,"Bev: Hi Gita, yes, Milo wants me to come, he's a bit nervous going away from home or school still. Gita: Yes, Beti is the same, they are still only 4 or 5 after all.",0.23157894736842105,0.0,0.1473684210526316,0.8856209150326797,0.0019021659973077476
+13715796,"Ali: Bristol Half Marathon! It’s taken me a whole year to sort this out but hope people will enjoy this!
+Gina: looking forward to Sunday ;)
+Harry: getting ready for it!
+Emma: see u there guys!
+Emily: it’s gonna be fab
+Ali: thanks for your support!","Ali will run the half marathon in Bristol on Sunday. Gina, Harry, Emma and Emily support him.",Ali: Bristol Half Marathon! It’s taken me a whole year to sort this out but hope people will enjoy this! Ali: thanks for your support!,0.2790697674418605,0.048780487804878044,0.186046511627907,0.4565217391304348,0.0015001249994384125
+13828401,"Alison: hey 😚
+Carole: hi there 😚
+Alison: whats new? are you and Jake getting along?
+Carole: yes, it's awesome 😎 never been with the guy that cares so much
+Alison: im so happy for you
+Alison: <file_gif>
+Carole: hes such a sweetheart
+Alison: send me his pic, I judge haha
+Carole: <file_photo>
+Alison: im jealous now, hes a hottie
+Carole: ikr!😉",Casole is happy with Jake. Alison thinks he's a hottie. ,"Carole: hes such a sweetheart Alison: im jealous now, hes a hottie",0.2608695652173913,0.09523809523809525,0.2608695652173913,0.8064516129032258,0.0018411249984637834
+13728940,"Anna: I am so fed up with the carpet
+Chay: What happened?
+Anna: Nothing much, I am just really fed up with the carpet.
+Chay: Any particular carpet?
+Anna: No, just my carpet, pretty much anywhere in the house.
+Chay: Colour/texture/cleanliness? anything in particular?
+Anna: all of the above
+Chay: Gosh, you sound fed up indeed.
+Chay: What are you going to do about this? Move out? Replace carpets?
+Anna: I was thinking I could maybe drink a lot of wine and then I won't be fed up anymore. 
+Chay: That could work. Definitely cheapest option.
+Chay: Do you need help? drinking?
+Anna: Always! Bring some wine!
+Chay: Was this a really cunning trick to make me come over with wine?
+Anna: Yeah I can't be bothered to go to the shop and need an excuse!
+Chay: Chapeau!
+Chay: <file_GIF>","Anna complained about her carpet, which was an excuse to invite Chay over with wine.","Anna: I am so fed up with the carpet Anna: Nothing much, I am just really fed up with the carpet.",0.16666666666666666,0.0,0.16666666666666666,0.85,0.002558708998549264
+13729625,"Wanda: Have you seen my keys
+Ellie: In your bag I thought
+Wanda: not here 😨 
+Wanda: got them... in my bag...",Wanda lost her keys. They were in her bag.,Wanda: not here 😨 Wanda: got them... in my bag...,0.3333333333333333,0.0,0.3333333333333333,0.5454545454545454,0.0031492079942836426
+13811215,"Zoey: I cant find my shoes
+Lucas: I put it behind the cardboard
+Zoey: Thanks",Lucas put Zoey's shoes behind the cardboard.,Zoey: I cant find my shoes Zoey: Thanks,0.25,0.0,0.25,0.4666666666666667,0.00451075000455603
+13862234,"Julia: I'm sick
+Julia: for the second time this month
+Gary: My poor Julia. What is going on this time?
+Julia: angina
+Gary: Are you taking any antibiotic?
+Julia: Yes... but I'm sick and tired of being ill
+Gary: Take a rest and everything's gonna to be ok!","Julia has an angina. She is ill for the second time this month, which upsets her.",Julia: I'm sick Gary: My poor Julia. What is going on this time?,0.26666666666666666,0.0,0.19999999999999998,0.7291666666666667,0.002286415998241864
+13864842,"Marco: Happy birthday Jacqueline!
+Peter: Happy birthday :*
+Jacqueline: Thanks <3
+Marco: Are you celebrating today?
+Jacqueline: I poured myself a glass of prosecco :D
+Jacqueline: Nothing fancy, I have to work early tomorrow
+Jacqueline: But I'm organising a small get-together on Saturday
+Jacqueline: If you guys want to come
+Marco: I'd love to
+Peter: Me too!
+Jacqueline: Lovely
+Jacqueline: Good friends, snacks and drinks
+Jacqueline:  what else do I need? <3",Today is Jacqueline's birthday. She has to work early tomorrow. She is organizing a small party on Saturday. Marco and Peter will come.,Marco: Happy birthday Jacqueline! Peter: Happy birthday :*,0.25806451612903225,0.0,0.12903225806451613,0.8888888888888888,0.0021214579974184744
+13820864,"Frederic: how is the weather down there?
+Sean: today it's sunny but cold
+Vanessa: it's quite strange, the temperature is low but it seems quite hot in the sun 
+Abigail: I love this weather, there is no single cloud 
+Frederic: it's very dull here
+Frederic: I haven't seen the sun for more than 3 weeks, it's very depressing
+Sean: Edinburgh can be difficult, I know","Frederic, Sean, Vanessa and Abigail are discussing the weather.",Frederic: how is the weather down there? Frederic: it's very dull here,0.27272727272727276,0.1,0.27272727272727276,0.8153846153846154,0.0022417500003939494
+13729910-1,"Will: <file_photo>
+Damian: That's hilarious, where did he learn that?
+Will: blatantly takes after his dad 🤣 🤣 
+Damian: that's epic!
+Damian: is that in your garden?
+Will: yeah we have had it done up
+Damian: looks great, is that the new pool?
+Will: it's one of those temporary pools. I can't face the hassle of a hole in the garden...
+Damian: clever
+Damian: Did you get a good deal from that Jack guy in the end?
+Will: yeah he sorted me right out, decent bloke as well
+Damian: can I have his details? My parents are wanting to have their garden done
+Will: defo
+Will: <file_other> 
+Will: hold on
+Will: <file_other>
+Will: that's the one
+Will: he's best with his mobile 
+Damian: Cool I'll pass it on, thanks dude
+Will: no worries",Will has had his garden done up and has put a temporary pool there. Will is satisfied with the work Jack has done in his garden. Damian's parents want similar work done in their garden. Will passes Jack's contact information to Damian at his request.,Damian: is that in your garden? Damian: can I have his details? My parents are wanting to have their garden done,0.35294117647058826,0.09090909090909091,0.2352941176470588,0.8421052631578947,0.0016685419977875426
+13716926,"Alex: We gotta commit to some subject for our referrals next week. Any idea?
+Mindy: I am opting for inequalities 
+Greg: inequalities and what?
+Mindy: everyone finds himself one and finds some articles, up to date, like from last 30 days
+Greg: no way, to little scope of time, how about last 3 months
+Alex: Agreed with inequalities, and 3 months, 1 is to short","Alex, Mindy and Greg will prepare a subject about inequalities for their referrals next week. They will look for the articles from the past 3 months.","Greg: inequalities and what? Alex: Agreed with inequalities, and 3 months, 1 is to short",0.29268292682926833,0.05128205128205128,0.1951219512195122,0.7692307692307692,0.001796750002540648
+13829845,"Ken: Do you use endomondo?
+Martha: Yeah, everyday, you installed too? :)
+Ken: I did, I started running and wanted to track my progress
+Martha: And?
+Ken: It doesn't work properly I think or maybe there's something wrong with my phone.
+Ken: I went for a jog, turned it on and I'm sure I wasn't running for more than an hour. I checked it for my results and it was off
+Martha: Hm, weird...
+Ken: I know, I wasn't using my phone at all, just had it with me while I was jogging
+Martha: Did you have any notification?
+Ken: No, the battery was almost depleted though
+Martha: Eh, it happens in certain models, unfortunately. It works fine with mine, but my friend had a similar issue. Maybe your phone's battery or processor, I don't really know, is too weak for it
+Ken: Maybe, but that's weird, it's just a fitness app",Ken has installed an app for running but it is not working properly on his phone. ,"Martha: And? Ken: Maybe, but that's weird, it's just a fitness app",0.26666666666666666,0.0,0.19999999999999998,0.9210526315789473,0.0019038329992326908
+13681832,"Phil: Is Brandon in?
+Clara: Not yet.
+Phil: Has he called to say he'd be late?
+Clara: No, he hasn't.
+Phil: It's not the first time, ist it?
+Clara: No, it isn't.
+Phil: When he arrives, tell him to come to me. 
+Clara: Of course.
+Phil: Please prepare a report on the absenteeism and lateness. I expect it by Friday on my desk.
+Clara: It will be ready.",Brandon is late again. Clara will prepare a report on the absenteeism and lateness for Phil by Friday.,Phil: Is Brandon in? Clara: Not yet.,0.32,0.0,0.16,0.8970588235294118,0.0015470420039491728
+13728928,"Nora: Hi mum, look at these photos
+Harper: ??
+Nora: they are loading
+Harper: how? 
+Nora: I am sending them but they haven't gone through to you
+Harper: Okay so I will check later
+Nora: Mum it's just 5 seconds
+Harper: Okay
+Nora: :*
+Harper: I don't see anything
+Nora: JUST A SECOND MUM
+Harper: Oh, there is something!! It's blurred but I see it!!
+Nora: Try opening it
+Harper: My pretty girl!!! You look lovely!!",Nora is sending her photos to Harper.  ,Harper: ?? Harper: how?,0.2,0.0,0.2,0.9473684210526316,0.0020742499982588924
+13716148,"Ethan: You ready to go?
+Ann: Yep
+Ethan: Ok, let's meet next to the bus station, I'll come for you
+Ann: Gr8 :)
+Ethan: I will be there within 10min :) So at you house Danny within 20-25min
+Danny: OK",Ethan and Ann are meeting next to the bus station. They will be at Danny's in 20-25 minutes.,Ethan: I will be there within 10min :) So at you house Danny within 20-25min Danny: OK,0.3243243243243243,0.05714285714285714,0.3243243243243243,0.575,0.0020042079995619133
+13730602,"Fran: so how's the new affair going?;)
+Sally: hmm
+Fran: what happened?
+Sally: I'm not sure. I mean everything is fine but there's no chemistry. Maybe there's something wrong with me
+Fran: There's nothing wrong with you. Don't let yourself think that. Maybe you just need more time
+Sally: It's not like I wanna give up but sometimes I wonder if I should be forcing myself
+Fran: Definitely not. But maybe try not to put so much pressure on it
+Sally: I just don't understand it. And myself
+Fran: You don't have to understand anything :)
+Sally: I mean there was definitely a spark at the beginning and now I really don't know what happened and how to get it back
+Fran: You probably started thinking too much ;)
+Sally: Hahah probably. My head is my worst enemy
+Fran: You just met, don't force it. Why would you want chemistry that just dies out after 3 months? Maybe deep down you're looking for something more serious or stable and that's why you actually don't wanna rush it? And you're older now. It's more difficult to fall madly in love when you are not so easily fooled anymore ;)
+Sally: I get it. It's not even about falling in love. I just don't get what happened. I mean I can't be in a relationship with absolutely no chemistry at all
+Fran: Well it went away so maybe it will come back :D You can't overthink those things. They don't like it ;)
+Sally: I probably am overthinking. We had a heart to heart and I feel much better after the talk
+Fran: You want soulmates, intellectual connection, and chemistry - that's some high expectations for a new relation. Not everything at once
+Sally: Yeah I would but I know I can't have it all
+Fran: Of course you can. But some things work better overtime. On the other hand, do NOT force yourself into anything. 
+Sally: I'm not going to. I guess I've been lucky I found someone who is understanding and wants to discuss things
+Fran: Exactly. And once you feel safer, chemistry might come back, because you won't be analyzing and thinking and worrying and pressuring yourself ;)
+Sally: You're probably right.",Sally doesn't feel the chemistry in her new relationship anymore. Fran suggests that Sally is overthinking the situation and that Sally should give the relationship some time.,Sally: I just don't understand it. And myself Fran: You don't have to understand anything :),0.17777777777777778,0.0,0.13333333333333333,0.9571045576407506,0.0021642079955199733
+13727911,"Harry: Hey, I'm going to Ikea this evening.
+Harry: I remember you said that you wanted to buy some candles and other stuff
+Harry: You wanna come with me?
+James: Sure! Will you pick me up?
+Harry: No problem!
+Harry: Is 18 ok?
+James: Sure, I've just finished work and I'm coming home. I'll be ready by then.
+James: BTW, what do you need from Ikea?
+Harry: I want to buy a desk to my office room.
+James: Woah. Have you chosen it yet?
+Harry: Yeah. Ikea has got exact same desk as my architect put in the project, so it's super convenient.
+James: No room for spontanous choice though :(
+Harry: Seriously, I hate having too much to choose from.
+Harry: I have problems to decide then.
+James: I get you man. My girlfriend has the same problem on sweets aisle in a supermarket.
+Harry: Hahaha! Fuck you :)
+James: :P",Harry will pick James up at 6 pm. They will go to Ikea. Harry wants to buy a desk to his office room.,Harry: No problem! James: :P,0.14285714285714285,0.0,0.14285714285714285,0.9671052631578947,0.0021028749979450367
+13716858,"Noel: Well, Pump Truck got her nickname from her huge boobs!
+Patrick: Believe me! They were enormous!
+Noel: Sigh...
+Morgan: Guys!
+Patrick: Sry!
+Noel: Still. She was among the first to develop huge boobs.
+Miranda: So?
+Patrick: Oh, you don't get it! Horny boys, hormones, sex in the air and these boobs...
+Louise: I see some of us haven't changed ;)
+Noel: And everyone, well every guy, wanted to see them. Not just through the shirt.
+Patrick: So one time, some guys crawled into the girls' locker room and took a photo of her... naked!
+Noel: Still have it!
+Patrick: Send me l8r?
+Noel: Sure!
+Morgan: Guys! Ur awful!
+Patrick: Sry.",Pump Truck got her nickname for her big breasts. One guy crawled into the girl's locker room and took a a photo of her naked.,Patrick: Sry! Noel: Still have it!,0.0,0.0,0.0,0.9459459459459459,0.0023095419965102337
+13681717,"Nigel: Hey, I just saw this bookstore named after a Reventlow book?
+Hannah: Oh, you mean ""Buchladen zur schwankenden Weltkugel""?
+Nigel: Yeah, that's the one. Have you been?
+Hannah: No, its always closed when I'm in the neighorhood. I'm usually on Kastanienallee for the nightlife.
+Nigel: It seems pretty neat.
+Hannah: Yeah, I've taken a look at their website.
+Nigel: Do u want to go check it out tomorrow? Its not too far from us after all.
+Hannah: OK. I have the day off, but need to get my hair done at 11 am. Maybe in the early afternoon?
+Nigel: that suits me. I have to meet Tristan for brunch anyway.
+Hannah: Oh, he's back in town? I thought he moved? 
+Nigel: he did, but he missed being away. Got bored of Bielefeld real quick. 
+Hannah: Oh...
+Nigel: Not really his scene...
+Hannah: Did he go back to working at the shoe store?
+Nigel: Yeah, they missed having him there. He's their number 1 salesman.
+Hannah: Hes not still dating Lydia, right? 
+Nigel: Oh gosh, that was ages ago.
+Hannah: I thought so.
+Nigel: Yep, well see you tomorrow then?
+Hannah: Sure. I'll let u know when I'm ready 2 meet.",Nigel and Hannah are going to the bookstore in Kastanienallee after Nigel has brunch with Tristan and Hannah has her hair done.,"Nigel: Yeah, that's the one. Have you been? Hannah: Oh...",0.1818181818181818,0.0,0.1818181818181818,0.9502487562189055,0.0022476669983007014
+13862721,"Ruth: HI girl, how long are you staying at your parent's?
+Samantha: hey, another week, till sunday, why?
+Ruth: I wanted you to go with me to Vertigo, it's a jazz dance club.
+Samantha: sounds interesting
+Ruth: On 20th they organize a ""Classy night"".
+Samantha: what?
+Ruth: You know, acting like a lady, with a champagne in your hand, listening to jazz music.
+Samantha: hmm not sure I'd be a good company
+Samantha: and im coming back on 20th, but will probably need to rest
+Ruth: Oh I understand.
+Ruth: Maybe next time!","Samantha will stay at her parents' house until Sunday. She will likely be too tired to join ""Classy Night"" at Vertigo jazz club with Ruth on the 20th.","Ruth: On 20th they organize a ""Classy night"". Samantha: what?",0.3157894736842105,0.1111111111111111,0.15789473684210525,0.8924731182795699,0.0021652080031344667
+13728113,"Lowe: just give me 2 minutes and i'll be out
+Shaw: dude it's been half an hour now
+Lowe: i know, i was stuck with the work
+Shaw: are you done now?
+Lowe: yeah just let me get ready, 2 minutes
+Shaw: alright but hurry up
+Lowe: yeah
+Shaw: everyone's waiting for us there
+Lowe: everybody's there already?
+Shaw: what do you mean already, it's been 15 minutes past the time we discussed
+Lowe: oh shit, completely lost track of time
+Shaw: now come on
+Lowe: yeah i'm out",Lowe is late because of work. Shaw is waiting and getting impatient. Lowe's finally coming.,Shaw: are you done now? Lowe: yeah,0.17391304347826086,0.0,0.17391304347826086,0.9213483146067416,0.002046375004283618
+13821623,"Will: How was St Patrick’s Day David?
+Theresa: David is a proud Irishman 🍀 I’m sure he did his best to celebrate it well.
+David: Oh man! What a fun weekend! Everyone was off today to recover.
+David: Theresa, I’m so disappointed you were not with us.
+Will: Haha nice!
+Theresa: Next year, I promise.
+David: But I can’t wait to drink with the King!
+Will: Haha, as far as I know, the king is ready!
+David: Does Amsterdam celebrate it?
+Will: St Patrick’s? Nooo
+Will: It’s something restricted to your culture, I believe
+David: Yea but a lot of places celebrate. Irish everywhere u know 😉
+David: Just not in Amsterdam 😜
+Will: Actually, maybe the Irish pubs in Amsterdam organized some events
+Will: But we Dutch people always skip the Irish pubs
+Theresa: Why? Don’t you like Guinness? 🍺
+Will: Only dick in the pubs, no women 😘","David celebrated St Patrick’s Day during the weekend. David is getting ready for King's Day in Amsterdam. People in Amsterdam do not celebrate St Patrick’s Day. Will doesn't go to Irish pubs in Amsterdam, because there are no women inside them.","David: Theresa, I’m so disappointed you were not with us. David: Does Amsterdam celebrate it?",0.1639344262295082,0.0,0.13114754098360656,0.9,0.0019578749997890554
+13729070,"Sadie: can i borrow your bike again please?
+Chloe: when?
+Sadie: on thursday, i need to go to the dentist quickly after work
+Chloe: sure, let me know when you want to pick it up
+Sadie: wednesday evening will be good?
+Chloe: sure, come over and please remember to lock it properly!!",Sadie will borrow Chloe's bike on Wednesday evening. She has a dentist appointment on Thursday after work.,Sadie: can i borrow your bike again please? Chloe: when?,0.2857142857142857,0.0,0.21428571428571427,0.8076923076923077,0.0016460830011055805
+13828770,"Dora: Hi Honey, how are you?
+Dora: Did you sleep well?
+Ben: Hello Darling :*
+Ben: Yes, and you?
+Dora: Fine, but didn't get much sleep..
+Ben: Why, what's going on?
+Dora: How is your hotel?
+Ben: It's really good. And close to the city centre.
+Dora: I was working late. 
+Ben: The bank? 
+Dora: yep. But it's almost done!
+Ben: Great! ","Ben slept well, his hotel is close to the city centre. Dora worked late. ",Dora: Did you sleep well? Ben: The bank?,0.36363636363636365,0.0,0.18181818181818182,0.8709677419354839,0.0014763750004931353
+13682014,"Tony: Is the boss in?
+Claire: Not yet.
+Tony: Could let me know when he comes, please? 
+Claire: Of course.
+Tony: Thank you.",The boss isn't in yet. Claire will let Tony know when he comes.,Tony: Is the boss in? Tony: Thank you.,0.36363636363636365,0.1,0.36363636363636365,0.6521739130434783,0.0013699999981326982
+13820331,"Doris: I'm almost there, are you inside?
+Judy: yes, we were sitting outside, but Sara was cold
+Sara: it's not Italy this country
+Doris: hahaha
+Judy: a bit exaggerated but let it be
+Doris: I cannot find you
+Judy: we're upstairs
+Doris: ok!",Judy and Sara are sitting inside upstairs. ,"Judy: yes, we were sitting outside, but Sara was cold Doris: I cannot find you",0.27272727272727276,0.0,0.18181818181818182,0.6511627906976745,0.0017086250009015203
+13818743,"Eva: <file_photo>
+Eva: how about this one?
+Isabella: Hmm, pretty ok
+Megan: Nooooooo..... not your color
+Megan: In my opinion:)
+Megan: Look for sth in blue, green or grey ..., you always look good in ""cool"" colors:)","Eva's asking for advice, Megan suggests a different, cool colour.",Megan: Nooooooo..... not your color Megan: In my opinion:),0.09999999999999999,0.0,0.09999999999999999,0.7567567567567568,0.001665542004047893
+13729159,"Leonardo: hey, pick me up in the morning
+Griffin: okay
+Griffin: at what time
+Leonardo: very early, around 6,30
+Griffin: okay then
+Leonardo: please dont forget, im going to the airport
+Griffin: oh, youre leaving the country?
+Leonardo: just for a few weeks
+Griffin: thats awesome, ill see you then in the morning
+Leonardo: thanks Griffin, i owe you
+Griffin: its nothing, its just my responsibility as a driver
+Leonardo: but still, thanks for being there
+Griffin: youre welcome",Griffin will pick Leonardo up 6:30 am to get him to the airport. Leonardo is leaving the country for a couple of weeks.,"Griffin: okay Leonardo: thanks Griffin, i owe you",0.125,0.0,0.125,0.8987341772151899,0.0018005840029218234
+13727907,"Ron: Hey Alice, wanna go grab a coffee?? 
+Alice: Yeah sure.
+Ron: Get ready . I will be at your house in 5 mins.
+Alice: Great!",Ron and Alice will go for a coffee in 5 minutes.,"Ron: Hey Alice, wanna go grab a coffee?? Alice: Great!",0.47619047619047616,0.10526315789473685,0.47619047619047616,0.6153846153846154,0.0021395830044639297
+13863127,"Krystal: oh i miss Cuba
+Mikayla: me too ;(
+Krystal: maybe we could go again next year
+Mikayla: we definitely should! i'll go and check out fisrt minute trips straight away;D
+Krystal: haaha ok :D let me know if you find sth 
+Mikayla: u got it!!",Krystal and Mikayla want to go to Cuba again. Mikayla will look for first minute trips.,Mikayla: me too ;( Mikayla: u got it!!,0.17391304347826086,0.0,0.17391304347826086,0.8260869565217391,0.002360500002396293
+13731244,"Collins: Bro I played FIFA 19 for the first time today.
+Ben: Really?
+Ben: I played it 1 month ago.
+Collins: You nerd.
+Ben: Stay woke.
+Collins: I know you are a pro by now.
+Ben: 😂 Once a pro. Always a pro.
+Collins: 🤣Okay Mister!!😎",Collins played FIFA 19 for the first time today. Ben played it 1 month ago.,Collins: I know you are a pro by now. Ben: 😂 Once a pro. Always a pro.,0.12903225806451615,0.0,0.12903225806451615,0.6304347826086957,0.0018054579995805398
+13817874,"Aiden: Are you free now?
+Silvia: 5 mins please
+Aiden: k",Silvia will be free in 5 minutes.,Aiden: Are you free now? Aiden: k,0.14285714285714285,0.0,0.14285714285714285,0.36363636363636365,0.0016667919990140945
+13727930,"Michael: Hi, how are you doing?
+Betty: Fine. And you?
+Michael: Good. Just finished building a cupboard and need a pause. Do you fancy a drink?
+Betty: Not today. I'm still working. 
+Michael: Pity. 
+Betty: Maybe tomorrow?
+Michael: I don't know about tomorrow, cos we're going to install some benches at a school and it might take quite a while.
+Betty: I see. 
+Michael: How about the weekend?
+Betty: I'm free on Saturday evening. 
+Michael: Awsome! Saturday 19:00?
+Betty: Great! ",Michael has just finished building a cupboard. Betty is working. Michael is installing benches at a school tomorrow. Betty and Michael will meet for a drink on Saturday at 19:00.,Betty: Maybe tomorrow? Betty: I see.,0.16216216216216214,0.05714285714285715,0.16216216216216214,0.925,0.002534666004066821
+13729579,"Jess: How many miles did you run today?
+Carter: Just a couple. I just run 30 minutes. Don't care how far.
+Jess: Don't you try to beat your time and distance?
+Carter: Nah. Just run to run.
+Jess: Oh.
+Carter: Why? How far did you?
+Jess: Almost 4!
+Carter: 4K?
+Jess: Miles!
+Carter: Wow!",Carter ran 30 minutes today. Jess ran almost 4 miles.,Jess: How many miles did you run today? Jess: Almost 4!,0.47619047619047616,0.2105263157894737,0.380952380952381,0.7962962962962963,0.001889458995719906
+13730582,"Bella: Edward, What is the theme for tomorrow's farewell party?? 
+Edward: I think its ""Gatsby""..
+Bella: WOW!!! It must be the idea of Michael..
+Edward: You guessed it right .. It was Michael","The theme for tomorrow's farewell party is ""Gatsby"". It was Michael's idea.","Bella: Edward, What is the theme for tomorrow's farewell party?? Edward: You guessed it right .. It was Michael",0.6666666666666667,0.5161290322580646,0.6060606060606061,0.4242424242424242,0.001840334000007715
+13862784,"Beth: I need a coffee NOW...
+Beth: <file_gif>
+Sandra: 15 minutes
+Beth: like... a bucket of coffee
+Sandra: you need a breakfast and some fresh air ;)
+Sandra: ok let me finish one thing I'll give you a call when I'm ready",Beth is in desperate need for coffee. Sandra suggested a breakfast break.,Beth: I need a coffee NOW... Beth: like... a bucket of coffee,0.3333333333333333,0.0,0.3333333333333333,0.7142857142857143,0.0021838749962626025
+13829252,"Carrie: How was it? :D
+Carrie: Or is it still going? ;>
+Olivia: yes
+Carrie: whoah, good!
+Olivia: no
+Olivia: 30
+Carrie: Waiting for more, you got me curious
+Olivia: Jesus, I thought it'll never end
+Carrie: That bad?
+Olivia: It wasn't awful if that's what you're asking, but... I don't know, I didn't feel anything?
+Carrie: I understand, it happens
+Carrie: But will meet again?
+Olivia: He texted me already and wants to meet
+Carrie: He must have liked you then! That's good
+Olivia: No if I don't like him... And I kind of think I don't. He was nice and all, but...
+Carrie: You don't fancy him?
+Olivia: :( it's so shallow... I feel really bad about it
+Carrie: I think you shouldn't - what guy would say the same? We both know they wouldn't talk to a girl they don't find pretty so don't beat yourself about it
+Olivia: Thanks dear
+Olivia: What should I do? He asked me out again
+Carrie: I’d give him another chance. Sometimes there are no sparkles in the beginning
+Carrie: But you said you like talking to him
+Olivia: Yeah, he’s nice, I’m not sure if not too nice ;)
+Carrie: Hahaha, we sure are from the same family
+Olivia: I said I’d go out with him again
+Olivia: Ok, he suggested we can go to the cinema again…
+Carrie: Very creative indeed :D
+Olivia: Maybe I’m weird, but come on, I don’t feel like going any more.
+Carrie: Eh… Go out with him once more and if you’re bored again just tell him no.",Olivia went on a date. She doesn't know if she wants to continue this relationship. He invited Olivia to the cinema again.,Carrie: How was it? :D Olivia: no,0.06666666666666667,0.0,0.06666666666666667,0.9734848484848485,0.002927000001363922
+13811002,"Keira: <file_photo>
+Keira: i'm sitting next to this dude for the next three hours!!
+Evan: what a beautiful classic manspread! :D
+Keira: he's almost doing a split >:(
+Evan: just kick him or something :p
+Keira: he looks like this kind of guy who would kick me back :d
+Evan: well, that's unfortunate :D",Keira is sitting next to a man who's doing a huge manspread. ,Evan: just kick him or something :p Keira: he looks like this kind of guy who would kick me back :d,0.11764705882352941,0.0,0.11764705882352941,0.6111111111111112,0.0016139580038725398
+13829534-1,"Conrad: hello there
+Conrad: did you ask yout mom about the letter?
+Donna: wait imma ask her now
+Donna: yes, we got it
+Donna: was delivered yesterday
+Conrad: kk, open it, its an invitation
+Donna: it's very old fashioned of you to send wedding invitations by post
+Donna: but also romantic
+Conrad: you coming?
+Donna: yes of course!
+Donna: im so happy for you!
+Conrad: thanks, see you there",The wedding invitation from Conrad was delivered yesterday. Donna will be there.,"Donna: yes, we got it Donna: yes of course!",0.09523809523809525,0.0,0.09523809523809525,0.8695652173913043,0.001548458996694535
+13864744,"Jim: Hi guys, anyone has a CC Adobe account?
+Daniel: I think Stella does. Stella?
+Stella: I did, but I'm not using it any more so I stopped paying, sorry :(
+Jim: Oh, ok, thank though. I need for one of my projects
+Stella: Sorry, but I don't know anyone who could share their credentials with you",Jim needs an access to a CC Adobe account for his project. Stella's not using it anymore and she doesn't know anyone who could give Jim their credentials. ,"Stella: I did, but I'm not using it any more so I stopped paying, sorry :( Stella: Sorry, but I don't know anyone who could share their credentials with you",0.36065573770491804,0.23728813559322037,0.36065573770491804,0.4736842105263158,0.0012172499991720542
+13716785,"Dan: Will you call the plumber finally?
+Jess: Who?
+Brian: No, he's talkin about me, my friends is one
+Jess: Oh, ok
+Jess: But what's wrong?
+Dan: One of the pipes blew up yesterday
+Jess: WHAT? and I got to know about this just now?
+Dan: Chill, we got it covered right away, happened in front of our eyes, nothing was flooded
+Jess: Thank god! We would be so screwed
+Brian: Well we don't have hot water for now so it gotta be fixed ASAP
+Jess: O shit! I gotta date today
+Jess: Can you fix it today????
+Dan: We are working on it girl:D 
+Jess: Please no jokes k?:D 
+Brian: I got it, he's gonna fix it by 8pm
+Jess: shoot that's a long shot, but I might make it
+Dan: Just tell him what happened
+Brian: Sure, he'll understand
+Jess: Well I might just reschedule
+Brian: Oh come on, just don't take a shower:D like guys would
+Jess: Well, that's why you guys are alone",Brian will call the plumber to come and fix the broken pipe today by 8 pm. Jess is going on a date and she needs to shower before or reschedule.,Jess: Who? Jess: WHAT? and I got to know about this just now?,0.13953488372093023,0.0,0.13953488372093023,0.9221556886227544,0.0017567499962751754
+13821584,"Corbin: make sure to bring ID with you
+Buck: no worries
+Donald: okey dokey",Corbin reminds Buck and Donald to bring their IDs.,Corbin: make sure to bring ID with you Buck: no worries,0.39999999999999997,0.11111111111111112,0.3,0.2142857142857143,0.000985875005426351
+13862908,"Carter: I dont wanna nag you honey😕
+Carter: But today I slipped on the floor😕
+Grace: Are you okay?😭😭
+Carter: Could you mop it if you dropped something?😼
+Grace: Oops sorry i will keep it in mind(-_-;)",Grace spilled something on the floor and Carter slipped on it.,Grace: Are you okay?😭😭 Carter: Could you mop it if you dropped something?😼,0.33333333333333337,0.0,0.24999999999999994,0.6486486486486487,0.001353334002487827
+13830033,"Oliver: Mia, could you check if I left my umbrella at your place? can't find it anywhere
+Mia: the one with the weird ""sun"" logo?
+Mia: I was wondering who it was
+Oliver: yes it's mine :) could you bring it to the meeting tomorrow?
+Mia: sure, will do
+Oliver: great! see you tomorrow!",Oliver left his umbrella at Mia's. She will bring it to the meeting tomorrow.,"Oliver: Mia, could you check if I left my umbrella at your place? can't find it anywhere Mia: I was wondering who it was",0.3,0.052631578947368425,0.3,0.5555555555555556,0.001509708003140986
+13820510,"Trayson: My flight got cancelled :( 
+Mike: No way!!
+Trayson: 😪
+Sara: What happened? 
+Trayson: Bad weather
+Trayson: Sudden storm 
+Sara: That's insane
+Mike: Are you booking you for another flight? 
+Trayson: Waiting in line..
+Sara: So unfortunate
+Trayson: I will ttyl ",Trayson's flight was cancelled due to a sudden storm. He is queuing now to book another flight.,Trayson: My flight got cancelled :( Trayson: 😪,0.25,0.0,0.25,0.8095238095238095,0.0016214999996009283
+13810350,"Rose: omg, you won't believe it
+Rose: I don't believe it XD
+Connor: what happened?
+Rose: Mark and Monica got engaged!
+Connor: haha, no way! She has achieved the impossible XD
+Rose: <file_gif>",Rose is telling Connor about Mark and Monica's engagement. ,"Rose: omg, you won't believe it Rose: I don't believe it XD",0.08333333333333333,0.0,0.08333333333333333,0.6363636363636364,0.0018256670009577647
+13829562,"Rafal: happy birthay !!!1!1!oneone!!
+Beata: thank you :D I thought you forgot!
+Rafal: how could I forget you had your birthday 4 days ago
+Beata: yeah, I still expect some presents xD",Beata's birthday was 4 days ago.,Rafal: happy birthay !!!1!1!oneone!! Beata: thank you :D I thought you forgot!,0.09523809523809523,0.0,0.09523809523809523,0.625,0.0010703329971875064
+13813308,"Mike: back at the office?
+Paul: I still have one day of freedom left :D
+Mike: good for you!!
+Mike: than I won't bother you with office gossip :P
+Paul: spill!!
+Mike: Josh is leaving at the end of the month
+Paul: wuuuuuuuuuuuut
+Mike: no one expected that
+Mike: People thought he would get promoted rather than fired
+Paul: he was fired?!?!
+Mike: yeah
+Paul: thought he just left
+Mike: oh now, there's a mistery to it, too
+Paul: interesting",Paul has last day off work. Josh got fired although everyone thought he'd get promoted.,Mike: back at the office? Paul: he was fired?!?!,0.24000000000000005,0.0,0.16,0.8875,0.001753625001583714
+13728577,"Lucy: I don't know where my phone is could you call me?
+Sam: calling
+Lucy: got it, thanks!",Sam called Lucy to help her find her phone.,"Lucy: I don't know where my phone is could you call me? Lucy: got it, thanks!",0.23076923076923078,0.0,0.15384615384615383,0.11111111111111116,0.0012728340007015504
+13682170,"Bob: what was the name of that car mechanic you told me yesterday??
+Freddie: Jim's Repairs, it's on Freedom street
+Bob: does he have a phone number>
+Freddie: ye, but he rarely picks up because he has lots of shit to do - 554 645 387
+Bob: thanks mate, owe you one
+Freddie: you bet you do ;)","The car mechanic Jim's Repairs is on Freedom street. His phone number is 554 645 387, but he rarely answers it.",Bob: does he have a phone number> Freddie: you bet you do ;),0.1764705882352941,0.0625,0.11764705882352942,0.7758620689655172,0.0016355840052710846
+13611933,"Antony: So, you've got a new job?
+Grace: Yeah, I signed my contact last Monday.
+Antony: What do you do?
+Grace: I'm a secretary.
+Antony: Where?
+Grace: In town. For an architect.
+Antony: Is it a permanent or a temporary job?
+Grace: It's permanent.
+Antony: That's great! And how are you liking it so far?
+Grace: I love it! It's very interesting.",Grace got a permanent job as a secretary for an architect. Grace signed her contract last Monday. Grace loves her new job and finds it interesting. ,Antony: What do you do? Antony: Where?,0.0,0.0,0.0,0.8870967741935484,0.0016395830025430769
+13680690,"Sean: Jess, where are you??? Mum and dad are getting worried
+Jess: Soorry, took the wrong bus then my phone died. I'm at Mia's place
+Sean: Okay, I'll let them know. Want me to pick you up?
+Jess: Nah, I'll be home in 20 min :)",Jess is at Mia's place now and will arrive home in 20 minutes.,"Sean: Jess, where are you??? Mum and dad are getting worried Jess: Nah, I'll be home in 20 min :)",0.2941176470588235,0.125,0.2941176470588235,0.5652173913043479,0.0014233749971026555
+13716315,"Angelica: For anyone who won't make the dinner, we could always join for a drink or two afterwards?
+Angelica: Ok, maybe three drinks
+Helen: Why stop at 3?
+Amy: I would be in for a drink afterwards
+James: For sure come for drinks! will be in the bar from around 9/9:30 :)
+Angelica: Great
+James: See you later then!",They are going to meet at the bar for drinks. James will be at the bar after 9 pm.,"Angelica: For anyone who won't make the dinner, we could always join for a drink or two afterwards? Angelica: Ok, maybe three drinks",0.13953488372093023,0.0,0.13953488372093023,0.6101694915254237,0.0016848329978529364
+13681857,"Esther: I'm at the concert
+Bennett: Oh ok
+Esther: <file_photo>
+Bennett: That's cool. Let me not disturb
+Esther: With my flatmate
+Bennett: Have fun!
+Bennett: :)
+Esther: Thnx
+Bennett: You look beautiful!
+Esther: Thank you!!!
+Bennett: You're welcome :)
+Esther: :)
+Bennett: Have a great night. I'm going to sleep
+Esther: The concert is over
+Bennett: Got a long fucking drive tomorrow!
+Esther: We will go to eat ice cream maybe and we will go home. U will drive?
+Bennett: Oh so not going out? Yes I will
+Esther: No. I'm at the concert I came here 2,5 h ago. I hope u have a comfortable car at least. How many km u need to drive?
+Bennett: Not sleep in with vodka in your blood tonight huh ?haha Yes its pretty comfortable. Nearly 1000 km
+Esther: Omg!!! a lot
+Bennett: Yes indeed!
+Esther: Not sleep in with vodka in your blood tonight huh ? I don't get it
+Bennett: I meant no drinking tonight for you ?
+Esther: I'm not drinking. Just ice cream",Esther is at the concert with her flatmate. Bennett will drive 1000km tomorrow. He has a comfortable car. ,Bennett: :) Esther: :),0.19999999999999998,0.0,0.09999999999999999,0.9770114942528736,0.001829624998208601
+13680744,"Rowan: Plans today?
+Lilliana: Nothing just waiting to have lunch then maybe have a nap
+Rowan: Explain me one thing
+Lilliana: What thing?
+Rowan: And how is it? Like today u went to work but they sent u back home. U will still get paid for this?
+Lilliana: They didn't send me home we decided not to fly and yes I still get paid. I don't get paid hourly I get paid monthly
+Rowan: Ok",Liliana is at home and does not have specific plans for the day. Liliana and her colleagues decided not to fly today but she still got paid. Liliana's job pays a fixed rate on a monthly basis.,Rowan: Explain me one thing Rowan: And how is it? Like today u went to work but they sent u back home. U will still get paid for this?,0.2686567164179104,0.0,0.1492537313432836,0.6133333333333333,0.0014484999992419034
+13594121-1,"Sophia: missed the tram...
+Ella: oh come on...
+Sophia: waiting for the next one I guess
+Ella: i guess...",Sophia missed the tram and is waiting for the next one.,Sophia: waiting for the next one I guess Ella: i guess...,0.5454545454545454,0.4000000000000001,0.5454545454545454,0.42105263157894735,0.0011851250019390136
+13728761,"Tom: hey how are you?
+Sharan: i am good and you?
+Tom: fine thanks, ok .. so i need a favor
+Sharan: yes go ahead i will try to do what i can
+Tom: so i am planning throw a surprise birthday party for Kate..
+Sharan: wow thats a great, how can i help?
+Tom: i dont know all her friends so i need you to invite them all and let them know its a surprise party
+Sharan: oh sure thats not something big, i can do that for sure
+Tom: thanks a lot
+Sharan: my pleasure, is there anything else i can do ?
+Tom: hmm.... thanks for asking but i have arranged for everything 
+Sharan: oh good so send me the party details so i can send those to her friends
+Tom: oh yes i would send a e-card have designed with all the details in a while
+Sharan: ok i would wait for that.
+Tom: and please confirm the no. of guests so i do arrangement accordingly
+Sharan: sure i will
+Tom: and i dont have to mention that but still you are also invited 
+Sharan: offcourse :)
+Tom: <file:jpg> here is the card
+Sharan: every nice <thumbsup>
+Tom: thanks ","Tom will throw a surprise birthday party for Kate but he doesn't know all her friends, so Sharan will invite them. Tom sent Sharan a card with all the details. She will confirm how many guests are coming.",Sharan: sure i will Tom: thanks,0.13333333333333336,0.0,0.13333333333333336,0.9704433497536946,0.0016693340003257617
+13715999,"Judyta: Can you tell me girls where can I buy a drying rack?
+Ida: Have you checked Tesco?
+Judyta: No, I thought that it's better to ask around first :)
+Judyta: Had no idea that I can get sth like this in Tesco
+Ida: Actually, is seems that they have everything there
+Ida: I'm always like overwhelmed when I get into there
+Judyta: Yeah, me too. And those crowds of people every time...
+Judyta: That's why I don't like doing shopping there.
+Marta: Hey there!
+Marta: Good news, I've got a spare drying rack in my apartment!
+Judyta: What are you saying?!
+Judyta: I'm takin' it! How much do you want for it?
+Marta: I don't want money from you. Just come and take it. That'll be one less thing in this already full flat
+Ida: So, Judyta, maybe I could pick you up and we'll go to Marta together?
+Ida: We could talk about things by the way :)
+Marta: Yeah, brilliant idea! I want to see both of you here!
+Judyta: Wow, everything's turned out so nice :)
+Judyta: Let's do this","Judyta is looking for a drying rack. Ida suggests Tesco, but neither of them is a great fan of shopping there. Marta has a spare drying rack so Judyta is going to take it from her. Ida is going to pick her up to talk about different things.","Judyta: Had no idea that I can get sth like this in Tesco Ida: So, Judyta, maybe I could pick you up and we'll go to Marta together?",0.25974025974025977,0.05333333333333332,0.18181818181818185,0.8478260869565217,0.0014485829960904084
+13729340,"Tom: U OK?
+Alex: Yeah, pretty good. U?
+Tom: <file_gif>
+Alex: hahaha so a hangover, huh?
+Tom: Don’t tell me you’re surprised! Vodka was my middle name yesterday.
+Alex: What can I say? Friday, baby!
+Tom: So much fun, though
+Alex: Yeah, you definitely had fun
+Tom: :P
+Alex: Especially when you called Erica a fat ass
+Tom: I did WHAT?
+Alex: in her face
+Tom: noooo
+Alex: seriously, man
+Tom: I can't believe it
+Alex: HAHA I'm messing with you
+Tom: you prick...
+Alex: I knew you wouldnt remember much
+Tom: Yeah, that I would've remembered
+Alex: haha",Tom and Alex had fun last night. They drank a lot and Tom has a hangover now. ,Tom: :P Alex: haha,0.19047619047619047,0.0,0.19047619047619047,0.9595959595959596,0.0018091250021825545
+13865286,"Elena: Have you read about the British teenager that escaped to Syria in 2015?
+Kim: no, but I remember the case
+Elena: <file_other>
+Andreas: there was a similar case in Austria at the beginning of the war
+Andreas: but, honestly, I cannot relate to their problems
+Andreas: so much naivety and stupidity
+Jeff: So she wants to come back now?
+Elena: apparently
+Elena: but she also have no regrets
+Kim: I think it's dangerous
+Elena: that's what the ministry replied
+Elena: that she's ideologically dangerous and could even radicalise others
+Kim: she said that she saw beheaded bodies and it did not ""faze her at all""
+Elena: insane
+Elena: although I'm very sorry reading the story how her children died of malnutrition
+Kim: but if she had stayed in the UK, her children wouldn't have had suffer this fate
+Elena: it's a good point
+Elena: she brought it upon herself
+Jeff: but maybe she has changed her mind, she was only a child when she left
+Elena: also true...",A British teenager escaped to Syria in 2015. ,Elena: <file_other> Elena: apparently,0.0,0.0,0.0,0.9763313609467456,0.0017998749972321093
+13829423,"Carla: I've got it...
+Diego: what?
+Carla: my date for graduation. Hope you're coming
+Diego: if you tell me when...
+Carla: oups sorry. June 4th
+Diego: we've got time.
+Carla: of course, but you have to book your plane
+Diego: i still  don't know, and it's quite expensive
+Carla: that's why you have to book it right now. Please tell me you'll come
+Diego: i'd love to for sure
+Carla: come, come, please
+Diego: ok, i'll have a look and tell you.
+Carla: you could stay  home for the week, my roommate won't be there.
+Diego: didn't you tell me your  parents would come?
+Carla: yes they will, but they've got friends they could stay with.
+Diego: what was the company you flew with when you came last month?
+Carla: aeromexico was the cheapest at that time, but check with delta
+Diego: i think there is some flight comparison websites and also some apps.
+Carla: i only know the canadian one
+Diego: don't worry i'll find out 
+Carla: ok ! i've to leave you. tell me soon
+Diego: i will. good night",Carla's date for graduation is on June 4th. Diego will try to come then.,Diego: what? Diego: if you tell me when...,0.08695652173913045,0.0,0.08695652173913045,0.9560439560439561,0.0016392909965361468
+13681414,"Andrew: I had to call in sick.
+Daniel: Are you ok?
+Andrew: Well, it’s just a cold but I feel awful!
+Daniel: How did that happen? You don’t usually get bad colds.. Are you sure it’s not a flu?
+Andrew: Pretty certain. I can never guess the weather right you know?!
+Daniel: I see. That’s true it’s either warm or freezing cold.
+Andrew: If I wear warm clothes, it’s hot. If I don’t, there’s a cold wind! 
+Daniel: Sorry to hear that. Is there anything I can help you with?
+Andrew: Can you grab some stuff from the pharmacy for me on your way back?
+Daniel: Of course I can! Just send me a list and I’ll drop by after work.
+Andrew: Thanks son!
+Daniel: No worries dad!",Andrew has a cold. Daniel will buy him some medication.,"Andrew: Well, it’s just a cold but I feel awful! Daniel: I see. That’s true it’s either warm or freezing cold.",0.23529411764705882,0.0625,0.23529411764705882,0.8359375,0.0012686250047408976
+13828178,"Suzie: Hi, Olga... 
+Olga: What's up?
+Suzie: I'm sick again... :( And I'm caughing like crazy
+Olga: Oh, poor thing.
+Suzie: I don't want you to catch anything so I think I should cancel :(
+Olga: That's OK, we can reschedule.
+Suzie: I'm so so sorry.
+Olga: C'mon, you don't have to apologise!
+Suzie: But I cancelled already last time.
+Olga: Suzie, I'm human just as you are, I can get sick as well...
+Suzie: I know... Well, thank you!
+Olga: No problem! Get well soon, honey.
+Suzie: <file_gif>",Olga and Suzie will postpone their meeting due to Suzie's sickness.,"Suzie: Hi, Olga... Olga: What's up?",0.3157894736842105,0.0,0.2105263157894737,0.9325842696629214,0.0013608329973067157
+13728700,"Jonathan: Hi
+Monica: hey how are you 
+Jonathan: Im good and you 
+Jonathan: I've been wondering if the field trip is mandatory
+Monica: It is
+Monica: she will take attendance
+Jonathan: Oh no xd
+Monica: So yea, everyone is going haha
+Monica: Apparently, she's giving additional marks for coming
+Jonathan: I am struggling in that class\
+Monica: oh no 
+Jonathan: So I guess I have to impress her
+Jonathan: So that I can pass the class
+Monica: I tell you
+Monica: Just go
+Monica: there will be group work and she will mark it 
+Monica: So we can get you covered hahaha 🤣🤣🤣
+Jonathan: Right on, thanks much 
+Monica: see u there! ","The field trip is mandatory. Monica and Jonathan participate, because there are additional marks to pass the class.",Monica: It is Monica: see u there!,0.24,0.0,0.24,0.9375,0.0018441249994793907
+13727804,"Blake: u can take the iron from my room
+Neeley: you done?
+Blake: yea..
+Neeley: ok",Blake is finished so Neeley can take the iron from his room.,Blake: u can take the iron from my room Blake: yea..,0.6086956521739131,0.380952380952381,0.6086956521739131,0.3125,0.0009287090069847181
+13728910,"Tom: Little bit of rain
+Tom: Wiem from office i am working for last 2 days
+Tom: View
+Tom: Internet is very bad here so upload might take long time
+Tom: Ok.  I will send more materials from Ireland.  in a week time
+Vicki Ellen: Cool!
+Tom: <file_photo>
+Tom: Vicki there is a thing outside game totally I would like to talk with you after my return
+Tom: <file_photo>
+Tom: Are you OK to try that with me?
+Vicki Ellen: I am really happy to talk to you any time
+Vicki Ellen: About anything
+Tom: There is product I would like to sell in UK
+Tom: It is moisture meter for olmost any material which is similar to grain.  But main focus is farmers and grain
+Tom: Product is in Poland on the market for almost 20 years
+Tom: And I want to go for Europe
+Tom: This is brief info
+Tom: Asonik.pl
+Vicki Ellen: Oh interestingly it's my father's old business
+Tom: Website. Will be rebuild by end of september
+Vicki Ellen: Grain
+Vicki Ellen: Cool yeah let's talk about it
+Tom: And on that website look for moisture meter
+Tom: <file_photo>
+Tom: This is my purpose of presence in India
+Tom: But not only that
+Tom: I will get back to that topic in couple of days.  To tell you what I might need help with
+Vicki Ellen: No problem",Internet connection is bad where Tom is. Tom will send more materials from Ireland in a week. Tom wants to sell a moisture meter for grain-like materials in the UK that is already available in Poland. Tom might need Vicki Ellen's help. Grain is Vicki Ellen's father's old business. Tom visited India.,Tom: <file_photo> Tom: But not only that,0.09375,0.0,0.09375,0.9698275862068966,0.0022160410007927567
+13862975,"Owen: Luke
+Luke: yeah?
+Owen: theres this project
+Owen: remember
+Owen: i told you about it
+Luke: which one
+Owen: in Toronto
+Luke: this one yep
+Owen: i need more volunteers
+Luke: they dont pay??
+Owen: nope
+Owen: but they give you money back
+Owen: reimbursement or sth lol
+Luke: for what
+Owen: for travel costs and acomodation
+Luke: cool
+Luke: but still
+Luke: working for free 🤔
+Owen: lemme explain oyu
+Owen: you
+Owen: its about making good memories, meeting people
+Owen: and helping those in need
+Luke: sounds interesting
+Owen: ima send you the booklter
+Owen: booklet
+Owen: <file_other>
+Luke: thanks
+Luke: ill look at it",Owen is looking for volunteers for an unpaid project in Toronto. All associated costs are covered. Luke might consider it.,Owen: Luke Owen: you,0.16666666666666669,0.0,0.16666666666666669,0.962962962962963,0.001981415996851865
+13682087,"Lizzy: can i ask you something?
+Sia: ask
+Lizzy: i'm going out with Marco and his friends
+Lizzy: we will be in a club
+Lizzy: and i need a make up inspiration
+Sia: what will you wear?
+Lizzy: black dress
+Sia: so maybe classic smoky?
+Lizzy: boring
+Sia: smoky with colour accent?
+Lizzy: i was thinking about half cut crease
+Sia: hmm, maybe
+Sia: have you done any before?
+Lizzy: no..
+Sia: so maybe something easier? you don't want to screw anything, right?
+Lizzy: you're right
+Sia: so maybe spotlight?
+Sia: just blend a few shades of brown and put some metallic shadow in the middle
+Lizzy: which colour do you suggest?
+Sia: you have green eyes, so maybe purple?
+Lizzy: okay ^^
+Lizzy: thank you :*
+Sia: no problem, just remember about blending!",Lizzy with the help of Sia is picking up make up for the night out with Marco and his friends.,Sia: have you done any before? Lizzy: no..,0.14285714285714288,0.0,0.07142857142857144,0.9402985074626866,0.001732582997647114
+13862232,"Marty: Hi Becky 🙂
+Marty: It's my birthday tomorrow and I wanted to invite you to my party that will take place in Jameson Bilard Club.
+Becky: Hi Martieee 🙂
+Becky: Wooo
+Becky: Happy to hear that
+Becky: Getting old aren't ya
+Marty: Getting old in style 😎
+Becky: What time?
+Marty: 7pm, till the morning I hope
+Becky: I will be there for sure
+Becky: Wouldn't miss it for the world!
+Marty: Can't wait to beat you in billiard 😈
+Becky: I'll take it easy on you this time 😇
+Marty: <file_gif>",Marty invited Becky to his birthday party tomorrow at 7 pm in the Jameson Bilard Club.,Marty: Hi Becky 🙂 Becky: What time?,0.18181818181818182,0.0,0.18181818181818182,0.9247311827956989,0.0014573329972336069
+13811437,"Julie: We have been waiting for you for half n hour
+Saul: I am on the way
+Julie: Hurry up, Its already too late
+Saul: I would be there in 10 mins max
+Julie: Where are you right now?
+Saul: Just passed the starbucks. Almost There
+Julie: K ","Julie and the others have been waiting for Saul for half an hour. He is on his way, juast passed the Starbucks and will be there in 10 mins max. ",Saul: I am on the way Julie: K,0.2631578947368421,0.0,0.15789473684210528,0.8333333333333334,0.0012843750009778887
+13862463,"Grace: <file_other>
+Grace: check out my new website ;)
+Andrea: ooh ok give me a sec
+Grace: ok ok just letting you know ;)
+Andrea: wow looks great! really pro
+Grace: thanks. tell me if you see anything that needs improvement
+Andrea: the photo is perfect who took it?
+Grace: the girl we met at Claire's wedding, remember?
+Grace: Olivia
+Andrea: oh ok now I remember
+Andrea: do you have some more pics from the session?
+Grace: yeah I'll show you
+Grace: I just wanted to ask you, when you have a minute, I mean not now if you're busy
+Grace: could you just see how it looks on you mobile and tablet
+Grace: it should be totally responsive and display on all devices
+Andrea: ok!
+Andrea: I love the theme",Grace has shown Andrea her new website. Andrea likes one of the photos. She is going to see how the site looks on mobile devices.,Grace: ok ok just letting you know ;) Andrea: ok!,0.11764705882352941,0.0,0.11764705882352941,0.9236641221374046,0.0015804170034243725
+13715939,"Camil: ok guys, so I've made this group so that everyone can share their opinion about the bowling on Friday. When it comes to hours, I suggest 8pm, the price is 5$ per person.
+Luna: is 8pm the only option? I'm at work until 7:30 and it's possible I won't make it on time
+Jannet: I'm open to any suggestions, 8pm sounds ok
+Camil: it's not the only option, we can also go at 9pm or even later
+Luna: Cool, then I'd opt for 9pm
+Joseph: I'm of the same opinion as Jannet
+Jannet: how about having a before party?
+Mick: hey guys!!! I'm totally in
+Camil: Before party is a must :D we can meet at my place at 7pm or something
+Luna: so sad I won't be there :/
+Camil: Don't worry, after party was also included in the plan :p
+Luna: happy to hear that :D
+Joseph: do we need to take our shoes or something?
+Jannet: only if you want to, they have special shoes at the bowling club
+Joseph: hm....I guess I'll take mine afterall
+Camil: I guess it's all settled then, we're in touch, if you have any questions you can either text me or call me
+Joseph: yep :D
+Luna: Sure",The plan for Friday is to meet at Camil's place at 7 pm then go bowling at 9. It is not compulsory to bring your own shoes to the bowling club as they rent them out.,Joseph: I'm of the same opinion as Jannet Jannet: how about having a before party?,0.07547169811320754,0.0,0.07547169811320754,0.9278846153846154,0.0013892080023651943
+13612126,"Julie: What time was my appointment with you again sorry I deleted your text by mistake
+Sarah: hiya Julie, it was booked for 3.30 this afternoon, is that still ok?
+Julie: yes thats fine I will see you then
+Sarah: lovely see you later",Julie accidentally deleted the text with timing of her appointment with Sarah. Sarah confirms it's booked for 3.30. That's fine for Julie. ,"Sarah: hiya Julie, it was booked for 3.30 this afternoon, is that still ok? Julie: yes thats fine I will see you then",0.4081632653061225,0.1276595744680851,0.32653061224489793,0.4772727272727273,0.0016048340039560571
+13814873,"Betty: Running late! Missed my bus :(
+Harriet: will you make it? I will leave your ticket with the attendant
+Betty: ok, should make it, cu",Betty will be late. Harriet will leave her ticket with the attendant.,"Betty: Running late! Missed my bus :( Betty: ok, should make it, cu",0.16666666666666666,0.0,0.16666666666666666,0.5,0.0024440419947495684
+13729181,"Martha: Hi Grace
+Grace: Hi! I was just thinking of you
+Martha: Really?
+Martha: What were you thinking? ☺
+Grace: That you owe me 100 quid
+Martha: ☹
+Martha: I know… Next week I’m getting paid, I’ll give it back to you.",Martha owes Grace 100 quid and next week Martha will give her money back.,Martha: Hi Grace Martha: ☹,0.3333333333333333,0.0,0.3333333333333333,0.8809523809523809,0.0012405000015860423
+13680590,"Jack:  Hello teacher! Are we meeting in the evening?
+John: We are, what time?
+Jack: 20?
+John: Ok :)",John is Jack's teacher. They are supposed to meet in the evening at 20 o'clock.,Jack:  Hello teacher! Are we meeting in the evening? Jack: 20?,0.5714285714285714,0.23076923076923075,0.5714285714285714,0.42105263157894735,0.0009970829996746033
+13681013,"Mel: im so tired of this primary season
+Angelica: me too. it goes on forever
+Mel: yeah, it really takes too much time",Mel and Angelica are tired of this primary season as it lasts too long.,"Mel: im so tired of this primary season Mel: yeah, it really takes too much time",0.5333333333333333,0.28571428571428575,0.5333333333333333,0.30434782608695654,0.0011649590014712885
+13818776,"Hannah: Sorry guys.
+Hannah: I missed the party, because I had to help my parents.
+Gerard: Are they ok?
+Hannah: Sure thing
+John: No worries
+John: There will be other opportunities :-)) 
+Hannah: I'm looking forward to it!
+Gerard: There will be a good event around the corner.
+John: It's good to know",Hannah missed the party because she had to help her parents. There are new events coming.,Hannah: Sorry guys. John: It's good to know,0.16,0.0,0.16,0.8490566037735849,0.0016130000003613532
+13812375,"Aric: Good morning Sweetheart! 
+Ariel: Good morning.
+Ariel: Have you picked up the parcel from the post office yesterday? 
+Aric: No. I didn't manage to get there on time.
+Aric: It was already closed when I arrived...
+Ariel: Can you do that today?
+Aric: I'll try.
+Ariel: Listen, I really need that parcel. 
+Ariel: And it's been lying three days already!
+Aric: Okey, okey.
+Aric: I'll pick it up today, promised. 
+Ariel: TQ",Aric didn't pick up the parcel from the post office yesterday because it was closed when he arrived. He will pick it today because Ariel really needs the parcel.,Ariel: Good morning. Ariel: Can you do that today?,0.10256410256410256,0.0,0.05128205128205128,0.8767123287671232,0.0014425829940591939
+13729589,"Bartek: Did you know that Vikings are coming back at the end of Nov?
+Filip: You serious?
+Bartek: Yeah, their fanpage on FB says so
+Bartek: Can't wait, I've been dying to see the next episodes
+Filip: Maan for me it felt like a minute
+Filip: Time's going so fast lately...
+Filip: The older I am the faster the live seems to be slipping away
+Bartek: You're too busy, need to chill a little, bro :)
+Filip: I got no time not to be busy :D Work's filling every spare moment of my life
+Filip: But I'm sure I'll find some time for the Vikings! Thanks for reminding me
+Bartek: Good for you!",Bartek and Filip can't wait for the new episodes of Vikings at the end of Nov. Filip works a lot but he will find time for the Vikings.,Filip: You serious? Filip: But I'm sure I'll find some time for the Vikings! Thanks for reminding me,0.3673469387755102,0.1276595744680851,0.32653061224489793,0.8407079646017699,0.001670958001341205
+13716893,"Tom: is the meeting at 8?
+Ann: No, it's at 6.30
+Jacob: Ann, it's been moved to 8!
+Ann: Sorry, didn't know!
+Tom: Thx!",Tom is not sure when the meeting starts. It's been moved to 8.,"Tom: is the meeting at 8? Ann: No, it's at 6.30",0.5185185185185186,0.24000000000000002,0.4444444444444445,0.5416666666666667,0.0012584169962792657
+13818995,"Will: Do you happen to know if there are any free masters courses for foreigners in Poland?
+Max: I'll look it up but tbh i don't think so
+Joanna: Yeah no way... unless you get a scholarships, i think it's not doable
+Max: I'm pretty sure you could do it for free if you were a EU national
+Max: but in your case... yeah it gets a bit more complex
+Will: <file_gif>
+Will: :(
+Joanna: i'll take a look at scholarships for people from your country and get back to you
+Will: thanks guys!!","Will wants to know if there are any free masters courses for foreigners in Poland, and Max and Joanna doubt it. Joanna will investigate the scholarships for Polish people and gets back to him.",Max: I'll look it up but tbh i don't think so Joanna: i'll take a look at scholarships for people from your country and get back to you,0.3076923076923077,0.126984126984127,0.3076923076923077,0.7021276595744681,0.0014448340007220395
+13828763,"Tabitha: how's it going? already on your way or not yet?
+Sylvia: i've just returned from the gym
+Sylvia: i'm grabbing my suitcase and i'm coming
+Tabitha: ok!",Sylvia has returned from the gym and she's coming to Tabitha.,Tabitha: how's it going? already on your way or not yet? Sylvia: i've just returned from the gym,0.4375,0.19999999999999998,0.3125,0.3571428571428571,0.0009512500037089922
+13682609-1,"Paul Sheehan: Heya Ciaran, do you have time for a coffee b4 heading back?
+Ciaran: Yeah, I have about 30 mins.
+Paul Sheehan: If your pressed for time, leave it off. I'm stuck in Turners Cross 'til about 1 and Mike has to be back at work at 1:15 today.
+Ciaran: Yeah, meeting Mike on Grand Parade.
+Ciaran: I have an appointment I need to get to in Clonakilty
+Paul Sheehan: Mike messaged me, will be in asap but I know you're under pressure for time so if we don't meet today, I hope you'll accept my accept my apologies!
+Ciaran: Hey man it was good meeting up with you today :)
+Paul Sheehan: Yeah, it's something we should definitely do more often :smiley: Maybe when you get your gaming room sorted, you might check out World of Warships.
+Ciaran: Yeah for sure.","Paul Sheehan tries to get some coffee with Ciaran, but they don't have much time. Ciaran is meeting Mike on Grand Parade and going to Clonakilty. They eventually meet up.","Ciaran: Yeah, meeting Mike on Grand Parade. Ciaran: Yeah for sure.",0.3333333333333333,0.2,0.2857142857142857,0.9230769230769231,0.0013100409996695817
+13862353,"Angie: hey stupid question
+Angie: which name is prettier: Henry or Harry?
+Susie: lol why u asking?
+Angie: just thinking about the future with Freddie
+Angie: can't decide how to name our future baby boy
+Angie: lol
+Susie: i'd choose Henry
+Angie: i thought so too 😁
+Susie: haha",Angie is thinking about her future with Freddie. Angie and Susie both think that Henry would be a prettier name for the future baby boy.,Susie: lol why u asking? Angie: lol,0.125,0.0,0.0625,0.8571428571428572,0.0013005410000914708
+13865467,"Peter: Did you get the tickets?
+Amanda: To the Harry Potter formal hall? yes!!!
+Olivier: Me too
+Peter: The tickets are sold out now
+Amanda: Did you get yours?
+Peter: No...
+Peter: I'll try to get one second hand 
+Peter: People tend to resign last minute ",Amanda and Olivier managed to get the tickets to the Harry Potter formal hall. Peter didn't get a ticket and they are sold out now.,Peter: Did you get the tickets? Peter: No...,0.23529411764705882,0.125,0.23529411764705882,0.8260869565217391,0.001484500004153233
+13829076,"Ashley: OMG, did u hear that Karen is on sick leave... :/
+Brianna: Are you joking? :O Again? It's like the 4th time in 3 mths.
+Ashley: Yeah & I'm stuck giving the presentation on my own again.
+Ashley: But u know, she'll take credit 4 it, when she returns.
+Brianna: No way, It's so obvious she's faking it...
+Brianna: You should really talk 2 Leanne about this, it's totally unfair.",Karen is on sick leave 4th time in 3 months. Ashley has to give the presentation alone. She thinks Karen is faking the sickness.,"Ashley: Yeah & I'm stuck giving the presentation on my own again. Brianna: No way, It's so obvious she's faking it...",0.2978723404255319,0.08888888888888888,0.2553191489361702,0.704225352112676,0.001240625002537854

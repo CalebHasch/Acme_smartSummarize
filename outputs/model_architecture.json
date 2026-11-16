@@ -1,0 +1,14 @@
+{
+    "encoder_checkpoint": "google/bert_uncased_L-2_H-128_A-2",
+    "decoder_checkpoint": "distilbert/distilgpt2",
+    "encoder_hidden_size": 128,
+    "decoder_hidden_size": 768,
+    "encoder_parameters": 4385920,
+    "decoder_parameters": 96096000,
+    "total_parameters": 100580992,
+    "trainable_parameters": 100580992,
+    "cross_attention_enabled": true,
+    "max_encoder_length": 256,
+    "max_decoder_length": 96,
+    "device": "cpu"
+}

@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data
+data/
+*.log
+
+# Model checkpoints
+checkpoints/
+models/checkpoint-*/
+
+# Temporary files
+tmp/
+temp/
+
+# Operating system
+.DS_Store
+Thumbs.db
